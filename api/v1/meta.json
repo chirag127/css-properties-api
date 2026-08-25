@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:36.902Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:36.902Z",
+  "retrievedAt": "2026-08-25T13:59:36.902Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "MDN / W3C",
+  "license": "CC0-1.0",
+  "updateCadence": "quarterly",
+  "nextUpdateDue": "2026-11-23T13:59:36.902Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}
