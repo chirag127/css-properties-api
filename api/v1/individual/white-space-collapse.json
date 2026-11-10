@@ -1,0 +1,36 @@
+{
+  "id": "white-space-collapse",
+  "name": "white-space-collapse",
+  "description": "The white-space-collapse CSS property controls how \"whitespace\", \"white space\" inside an element is collapsed.",
+  "syntax": "collapse | discard | preserve | preserve-breaks | preserve-spaces | break-spaces",
+  "initial": "collapse",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#white-space-collapsing"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/white-space-collapse",
+  "support": {
+    "chrome": {
+      "added": "114",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "124",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "reading-flow",
+  "name": "reading-flow",
+  "description": "The reading-flow CSS property enables modifying the \"reading order\" of child elements of a block, flex, or grid layout. This affects the order in which they are rendered to speech and navigated to when using sequential navigation such as tabbing to links or buttons.",
+  "syntax": "normal | source-order | flex-visual | flex-flow | grid-rows | grid-columns | grid-order",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "block, flex and grid containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-display-4/#reading-flow"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/reading-flow",
+  "support": {
+    "chrome": {
+      "added": "137",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

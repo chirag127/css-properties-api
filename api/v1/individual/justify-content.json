@@ -1,0 +1,37 @@
+{
+  "id": "justify-content",
+  "name": "justify-content",
+  "description": "The CSS justify-content property defines how the browser distributes space between and around content items along the \"main axis\" of a flex container and the inline axis of grid and multicol containers.",
+  "syntax": "normal | <content-distribution> | <overflow-position>? [ <content-position> | left | right ]",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "multicol containers, flex containers, and grid containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#align-justify-content",
+    "https://drafts.csswg.org/css-flexbox/#justify-content-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/justify-content",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "20",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

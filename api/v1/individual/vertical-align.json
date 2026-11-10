@@ -1,0 +1,36 @@
+{
+  "id": "vertical-align",
+  "name": "vertical-align",
+  "description": "The vertical-align CSS shorthand property sets the vertical alignment of an inline, inline-block, or table-cell box.",
+  "syntax": "[ first | last] || <'alignment-baseline'> || <'baseline-shift'>",
+  "initial": "baseline",
+  "inherited": "no",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#propdef-vertical-align"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/vertical-align",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

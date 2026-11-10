@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-line-align",
+  "name": "-webkit-line-align",
+  "description": null,
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "19",
+      "removed": "34",
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

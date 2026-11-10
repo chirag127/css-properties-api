@@ -1,0 +1,36 @@
+{
+  "id": "offset-anchor",
+  "name": "offset-anchor",
+  "description": "The offset-anchor CSS property specifies the point inside the box of an element traveling along an \"offset-path\" that is actually moving along the path.",
+  "syntax": "auto | <position>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/motion/#offset-anchor-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/offset-anchor",
+  "support": {
+    "chrome": {
+      "added": "116",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "72",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

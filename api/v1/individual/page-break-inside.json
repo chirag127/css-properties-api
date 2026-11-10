@@ -1,0 +1,36 @@
+{
+  "id": "page-break-inside",
+  "name": "page-break-inside",
+  "description": "> [!WARNING] > This property has been replaced by the \"break-inside\" property.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "deprecated",
+  "specUrl": [
+    "https://drafts.csswg.org/css-break/#page-break-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page-break-inside",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "19",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1.3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

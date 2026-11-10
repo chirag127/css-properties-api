@@ -1,0 +1,36 @@
+{
+  "id": "justify-self",
+  "name": "justify-self",
+  "description": "The CSS justify-self property sets the way a box is justified inside its alignment container along the appropriate axis.",
+  "syntax": "auto | <overflow-position>? [ normal | <self-position> | left | right ] | stretch | <baseline-position>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "block-level boxes, absolutely-positioned boxes, and grid items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#justify-self-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/justify-self",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "45",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "view-timeline-inset",
+  "name": "view-timeline-inset",
+  "description": "The view-timeline-inset CSS property is used to specify one or two values representing an adjustment to the position of the scrollport (see \"Scroll container\" for more details) in which the subject element of a named view progress timeline animation is deemed to be visible. Put another way, this allows you to specify start and/or end inset (or outset) values that offset the position of the timeline.",
+  "syntax": "[ [ auto | <length-percentage> ]{1,2} ]#",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/scroll-animations/#view-timeline-inset"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-inset",
+  "support": {
+    "chrome": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "159",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

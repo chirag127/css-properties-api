@@ -1,0 +1,36 @@
+{
+  "id": "width",
+  "name": "width",
+  "description": "The width CSS property sets an element's width. By default, it sets the width of the content area, but if \"box-sizing\" is set to border-box, it sets the width of the border area.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing-3/#propdef-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/width",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-width",
+  "name": "row-rule-width",
+  "description": "The row-rule-width CSS property defines the widths of the lines drawn between rows in multi-row grid, flex, and multi-col layouts.",
+  "syntax": "<line-width-list> | <auto-line-width-list>",
+  "initial": "medium",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-rule-width",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

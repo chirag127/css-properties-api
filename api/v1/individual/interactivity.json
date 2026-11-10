@@ -1,0 +1,36 @@
+{
+  "id": "interactivity",
+  "name": "interactivity",
+  "description": "The interactivity CSS property specifies whether an element and its descendant nodes are set to be inert.",
+  "syntax": "auto | inert",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui-4/#propdef-interactivity"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/interactivity",
+  "support": {
+    "chrome": {
+      "added": "135",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

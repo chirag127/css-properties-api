@@ -1,0 +1,36 @@
+{
+  "id": "flex-wrap",
+  "name": "flex-wrap",
+  "description": "The flex-wrap CSS property sets whether flex items are forced onto one line or can wrap onto multiple lines. If wrapping is allowed, it sets the direction that lines are stacked.",
+  "syntax": "nowrap | [ wrap | wrap-reverse ] || balance",
+  "initial": "nowrap",
+  "inherited": "no",
+  "appliesTo": "flex containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox/#flex-wrap-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex-wrap",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "28",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

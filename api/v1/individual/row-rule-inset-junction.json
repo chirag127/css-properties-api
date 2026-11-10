@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-inset-junction",
+  "name": "row-rule-inset-junction",
+  "description": "The row-rule-inset-junction CSS shorthand property can be used to offset both the left and right endpoints of row rule segments that are junction endpoints; that is, endpoints at gap junctions where rule segments intersect.",
+  "syntax": "<inset-value> <inset-value>?",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-inset-cap-start, column-rule-inset-cap-end, column-rule-inset-junction-start, column-rule-inset-junction-end, row-rule-inset-cap-start, row-rule-inset-cap-end, row-rule-inset-junction-start, and row-rule-inset-junction-end",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-junction"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-rule-inset-junction",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

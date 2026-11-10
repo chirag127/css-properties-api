@@ -1,0 +1,36 @@
+{
+  "id": "overflow-wrap",
+  "name": "overflow-wrap",
+  "description": "The overflow-wrap CSS property applies to text, setting whether the browser should insert line breaks within an otherwise unbreakable string to prevent text from overflowing its line box.",
+  "syntax": "normal | break-word | anywhere",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#overflow-wrap-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-wrap",
+  "support": {
+    "chrome": {
+      "added": "23",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

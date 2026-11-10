@@ -1,0 +1,37 @@
+{
+  "id": "text-decoration",
+  "name": "text-decoration",
+  "description": "The text-decoration CSS shorthand property sets the appearance of decorative lines on text. It is a shorthand for \"text-decoration-line\", \"text-decoration-color\", \"text-decoration-style\", and the newer \"text-decoration-thickness\" property.",
+  "syntax": "<'text-decoration-line'> || <'text-decoration-thickness'> || <'text-decoration-style'> || <'text-decoration-color'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#text-decoration-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#TextDecorationProperties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

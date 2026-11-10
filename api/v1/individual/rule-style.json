@@ -1,0 +1,36 @@
+{
+  "id": "rule-style",
+  "name": "rule-style",
+  "description": "The rule-style CSS shorthand property defines the line style of the lines drawn between columns and rows in multi-column grid, flex, and multi-col layouts, setting the styles of the column and row rules to the same value.",
+  "syntax": "<'column-rule-style'>",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "Same as column-rule-style and row-rule-style",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-style"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rule-style",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

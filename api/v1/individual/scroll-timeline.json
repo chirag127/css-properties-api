@@ -1,0 +1,36 @@
+{
+  "id": "scroll-timeline",
+  "name": "scroll-timeline",
+  "description": "The scroll-timeline CSS shorthand property is used to define a named scroll progress timeline, which is progressed through by scrolling a scrollable element (scroller) between top and bottom (or left and right).",
+  "syntax": "[ <'scroll-timeline-name'> <'scroll-timeline-axis'>? ]#",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/scroll-animations/#scroll-timeline-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline",
+  "support": {
+    "chrome": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "159",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

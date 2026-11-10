@@ -1,0 +1,37 @@
+{
+  "id": "image-rendering",
+  "name": "image-rendering",
+  "description": "The image-rendering CSS property sets an image scaling algorithm. The property applies to an element itself, to any images set in its other properties, and to its descendants.",
+  "syntax": "auto | optimizeQuality | optimizeSpeed",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "images",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-images/#the-image-rendering",
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#ImageRendering"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/image-rendering",
+  "support": {
+    "chrome": {
+      "added": "13",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3.6",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

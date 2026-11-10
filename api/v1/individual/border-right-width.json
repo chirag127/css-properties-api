@@ -1,0 +1,36 @@
+{
+  "id": "border-right-width",
+  "name": "border-right-width",
+  "description": "The border-right-width CSS property sets the width of the right border of an element.",
+  "syntax": "<line-width>",
+  "initial": "medium",
+  "inherited": "no",
+  "appliesTo": "all elements except ruby base containers and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#border-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-right-width",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

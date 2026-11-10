@@ -1,0 +1,36 @@
+{
+  "id": "text-wrap-style",
+  "name": "text-wrap-style",
+  "description": "The text-wrap-style CSS property controls how text inside an element is wrapped, providing alternate ways of determining where to create line breaks in order to fit the content within a block element.",
+  "syntax": "auto | balance | stable | pretty | avoid-short-last-line",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "block containers hat establish an inline formatting context",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#text-wrap-style"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap-style",
+  "support": {
+    "chrome": {
+      "added": "130",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "124",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "flex-basis",
+  "name": "flex-basis",
+  "description": "The flex-basis CSS property sets the initial main size of a \"flex item\". It sets the size of the content box unless otherwise set with \"box-sizing\".",
+  "syntax": "content | <'width'>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "flex items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox/#flex-basis-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex-basis",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "22"
+    },
+    "firefox": {
+      "added": "22",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

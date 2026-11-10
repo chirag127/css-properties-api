@@ -1,0 +1,36 @@
+{
+  "id": "text-decoration-thickness",
+  "name": "text-decoration-thickness",
+  "description": "The text-decoration-thickness CSS property sets the stroke thickness of the decoration line that is used on text in an element, such as a line-through, underline, or overline.",
+  "syntax": "auto | from-font | <length-percentage> | <line-width>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#text-decoration-thickness-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration-thickness",
+  "support": {
+    "chrome": {
+      "added": "89",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "70",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

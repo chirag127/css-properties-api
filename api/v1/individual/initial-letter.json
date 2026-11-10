@@ -1,0 +1,36 @@
+{
+  "id": "initial-letter",
+  "name": "initial-letter",
+  "description": "The initial-letter CSS property sets the size and sink for dropped, raised, and sunken initial letters. This property applies to \"::first-letter\" pseudo-elements and inline-level first children of block containers.",
+  "syntax": "normal | <number [1,∞]> <integer [1,∞]> | <number [1,∞]> && [ drop | raise ]?",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "certain inline-level boxes and ::first-letter and inside ::marker boxes (see prose)",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#sizing-drop-initials"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/initial-letter",
+  "support": {
+    "chrome": {
+      "added": "110",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": null,
+      "removed": null,
+      "prefixed": "9"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

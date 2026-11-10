@@ -1,0 +1,36 @@
+{
+  "id": "box-sizing",
+  "name": "box-sizing",
+  "description": "The box-sizing CSS property sets how the total width and height of an element is calculated.",
+  "syntax": "content-box | border-box",
+  "initial": "content-box",
+  "inherited": "no",
+  "appliesTo": "all elements that accept width or height",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing/#box-sizing"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-sizing",
+  "support": {
+    "chrome": {
+      "added": "10",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "5.1",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "animation-fill-mode",
+  "name": "animation-fill-mode",
+  "description": "The animation-fill-mode CSS property sets how a CSS animation applies styles to its target before and after its execution.",
+  "syntax": "<single-animation-fill-mode>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-animations/#animation-fill-mode"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-fill-mode",
+  "support": {
+    "chrome": {
+      "added": "43",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "5"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

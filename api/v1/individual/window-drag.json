@@ -1,0 +1,36 @@
+{
+  "id": "window-drag",
+  "name": "window-drag",
+  "description": null,
+  "syntax": "none | move",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui-4/#propdef-window-drag"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "152",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

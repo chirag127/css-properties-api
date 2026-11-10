@@ -1,0 +1,36 @@
+{
+  "id": "background-image",
+  "name": "background-image",
+  "description": "The background-image CSS property sets one or more background images on an element.",
+  "syntax": "<bg-image>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#background-image"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-image",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

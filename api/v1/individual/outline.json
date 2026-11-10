@@ -1,0 +1,36 @@
+{
+  "id": "outline",
+  "name": "outline",
+  "description": "The outline CSS shorthand property sets the style, color, and width of an element's outline.",
+  "syntax": "<'outline-width'> || <'outline-style'> || <'outline-color'>",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#outline"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline",
+  "support": {
+    "chrome": {
+      "added": "94",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "88",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "safari": {
+      "added": "16.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "94",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

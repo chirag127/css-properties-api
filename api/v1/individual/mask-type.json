@@ -1,0 +1,36 @@
+{
+  "id": "mask-type",
+  "name": "mask-type",
+  "description": "The mask-type CSS property applies to the SVG \"mask\" element. It defines whether to use the luminance (brightness) or alpha (transparency) content of the mask. This property may be overridden by the \"mask-mode\" property. The mask-type property has no effect on image or gradient masks.",
+  "syntax": "luminance | alpha",
+  "initial": "luminance",
+  "inherited": "no",
+  "appliesTo": "mask elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-mask-type"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-type",
+  "support": {
+    "chrome": {
+      "added": "24",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "35",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

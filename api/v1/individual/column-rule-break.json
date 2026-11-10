@@ -1,0 +1,36 @@
+{
+  "id": "column-rule-break",
+  "name": "column-rule-break",
+  "description": "The column-rule-break CSS property sets the behavior for breaking column rules into segments wherever column rules intersect row gaps.",
+  "syntax": "none | normal | intersection",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-break"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-break",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

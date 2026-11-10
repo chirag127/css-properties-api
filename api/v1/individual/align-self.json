@@ -1,0 +1,37 @@
+{
+  "id": "align-self",
+  "name": "align-self",
+  "description": "The align-self CSS property overrides a grid or flex item's \"align-items\" value. In grid, it aligns the item inside the \"Grid Areas\", \"grid area\". In flexbox, it aligns the item on the \"cross axis\".",
+  "syntax": "auto | <overflow-position>? [ normal | <self-position> ]| stretch | <baseline-position>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "flex items, grid items, and absolutely-positioned boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#align-self-property",
+    "https://drafts.csswg.org/css-flexbox/#align-items-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/align-self",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "20",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

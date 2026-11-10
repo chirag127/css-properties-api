@@ -1,0 +1,36 @@
+{
+  "id": "border-shape",
+  "name": "border-shape",
+  "description": "The border-shape CSS property defines an element's border shape using \"basic-shape\" values.",
+  "syntax": "none | [ <basic-shape> <geometry-box>?]{1,2}",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-borders-4/#border-shape"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-shape",
+  "support": {
+    "chrome": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

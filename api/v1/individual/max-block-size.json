@@ -1,0 +1,37 @@
+{
+  "id": "max-block-size",
+  "name": "max-block-size",
+  "description": "The max-block-size CSS property specifies the maximum size of an element in the direction opposite that of the writing direction as specified by \"writing-mode\". That is, if the writing direction is horizontal, then max-block-size is equivalent to \"max-height\"; if the writing direction is vertical, max-block-size is the same as \"max-width\".",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-max-block-size",
+    "https://drafts.csswg.org/css-sizing/#sizing-values"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/max-block-size",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

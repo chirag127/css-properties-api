@@ -1,0 +1,36 @@
+{
+  "id": "image-orientation",
+  "name": "image-orientation",
+  "description": "The image-orientation CSS property specifies a layout-independent correction to the orientation of an image.",
+  "syntax": "from-image | none | [ <angle> || flip ]",
+  "initial": "from-image",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-images/#the-image-orientation"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/image-orientation",
+  "support": {
+    "chrome": {
+      "added": "81",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "13.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

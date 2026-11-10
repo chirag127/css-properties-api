@@ -1,0 +1,36 @@
+{
+  "id": "block-ellipsis",
+  "name": "block-ellipsis",
+  "description": null,
+  "syntax": "no-ellipsis | ellipsis | <string>",
+  "initial": "no-ellipsis",
+  "inherited": "yes",
+  "appliesTo": "block containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow-4/#propdef-block-ellipsis"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

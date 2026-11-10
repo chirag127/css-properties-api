@@ -1,0 +1,36 @@
+{
+  "id": "offset-position",
+  "name": "offset-position",
+  "description": "The offset-position CSS property defines the initial position of an element along a path. This property is typically used in combination with the \"offset-path\" property to create a motion effect. The value of offset-position determines where the element gets placed initially for moving along an offset path if an offset-path function such as \"basic-shape/path\", \"path()\" does not specify its own starting position.",
+  "syntax": "normal | auto | <position>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/motion/#offset-position-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/offset-position",
+  "support": {
+    "chrome": {
+      "added": "116",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "122",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "-webkit-text-stroke-width",
+  "name": "-webkit-text-stroke-width",
+  "description": "The -webkit-text-stroke-width CSS property specifies the width of the stroke for text.",
+  "syntax": "<line-width>",
+  "initial": "0",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://compat.spec.whatwg.org/#the-webkit-text-stroke-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-stroke-width",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

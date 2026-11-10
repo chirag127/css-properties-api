@@ -1,0 +1,36 @@
+{
+  "id": "counter-reset",
+  "name": "counter-reset",
+  "description": "The counter-reset CSS property creates named CSS counters and initializes their values. It can create both regular and reversed counters.",
+  "syntax": "[ <counter-name> <integer>? | <reversed-counter-name> <integer>? ]+ | none",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-lists/#counter-reset"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/counter-reset",
+  "support": {
+    "chrome": {
+      "added": "2",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

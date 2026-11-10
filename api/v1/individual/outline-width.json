@@ -1,0 +1,36 @@
+{
+  "id": "outline-width",
+  "name": "outline-width",
+  "description": "The CSS outline-width property sets the thickness of an element's outline. An outline is a line that is drawn around an element, outside the \"border\".",
+  "syntax": "<line-width>",
+  "initial": "medium",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#outline-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-width",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "safari": {
+      "added": "1.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

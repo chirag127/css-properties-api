@@ -1,0 +1,36 @@
+{
+  "id": "content-visibility",
+  "name": "content-visibility",
+  "description": "The content-visibility CSS property controls whether or not an element renders its contents at all, along with forcing a strong set of containments, allowing user agents to potentially omit large swathes of layout and rendering work until it becomes needed. It enables the user agent to skip an element's rendering work (including layout and painting) until it is needed — which makes the initial page load much faster.",
+  "syntax": "visible | auto | hidden",
+  "initial": "visible",
+  "inherited": "no",
+  "appliesTo": "elements for which size containment can apply",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-contain/#content-visibility"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/content-visibility",
+  "support": {
+    "chrome": {
+      "added": "85",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "125",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

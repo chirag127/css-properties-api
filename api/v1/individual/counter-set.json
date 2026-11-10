@@ -1,0 +1,36 @@
+{
+  "id": "counter-set",
+  "name": "counter-set",
+  "description": "The counter-set CSS property sets CSS counters on the element to the given values.",
+  "syntax": "[ <counter-name> <integer>? ]+ | none",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-lists/#propdef-counter-set"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/counter-set",
+  "support": {
+    "chrome": {
+      "added": "85",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "68",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

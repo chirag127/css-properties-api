@@ -1,0 +1,37 @@
+{
+  "id": "color",
+  "name": "color",
+  "description": "The color CSS property sets the foreground color value of an element's text and text decorations, and sets the currentColor value. currentColor may be used as an indirect value on other properties and is the default for other color properties, such as \"border-color\".",
+  "syntax": "<color>",
+  "initial": "CanvasText",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-color/#the-color-property",
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#ColorProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

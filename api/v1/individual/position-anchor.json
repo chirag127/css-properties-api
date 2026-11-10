@@ -1,0 +1,36 @@
+{
+  "id": "position-anchor",
+  "name": "position-anchor",
+  "description": "The position-anchor CSS property specifies the default anchor element for a positioned element. This default is used by \"position-area\" and \"position-try\", and by anchor functions (\"anchor()\" and \"anchor-size()\") when no argument is provided to those functions.",
+  "syntax": "normal | none | auto | <anchor-name> | match-parent",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "absolutely positioned boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position-1/#position-anchor"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-anchor",
+  "support": {
+    "chrome": {
+      "added": "151",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "151",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "27",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

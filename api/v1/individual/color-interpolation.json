@@ -1,0 +1,36 @@
+{
+  "id": "color-interpolation",
+  "name": "color-interpolation",
+  "description": "The color-interpolation CSS property is used in SVG to specify which color space to use for \"linearGradient\" and \"radialGradient\" SVG elements.",
+  "syntax": "auto | sRGB | linearRGB",
+  "initial": "sRGB",
+  "inherited": "yes",
+  "appliesTo": "container elements, graphics elements, gradient elements, ‘use’ and ‘animate’",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#ColorInterpolationProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color-interpolation",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "transition-behavior",
+  "name": "transition-behavior",
+  "description": "The transition-behavior CSS property specifies whether transitions will be started for properties whose animation behavior is discrete.",
+  "syntax": "<transition-behavior-value>#",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "All elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transitions-2/#transition-behavior-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition-behavior",
+  "support": {
+    "chrome": {
+      "added": "117",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "129",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

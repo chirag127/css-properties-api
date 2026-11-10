@@ -1,0 +1,36 @@
+{
+  "id": "outline-color",
+  "name": "outline-color",
+  "description": "The outline-color CSS property sets the color of an element's outline.",
+  "syntax": "auto | <'border-top-color'>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#outline-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-color",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "safari": {
+      "added": "1.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

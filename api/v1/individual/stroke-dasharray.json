@@ -1,0 +1,36 @@
+{
+  "id": "stroke-dasharray",
+  "name": "stroke-dasharray",
+  "description": "The stroke-dasharray CSS property defines a pattern of dashes and gaps used in the painting of the SVG shape's stroke. If present, it overrides the element's \"stroke-dasharray\" attribute.",
+  "syntax": "none | <dasharray>",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/fill-stroke-3/#stroke-dasharray"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stroke-dasharray",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

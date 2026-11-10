@@ -1,0 +1,36 @@
+{
+  "id": "font-width",
+  "name": "font-width",
+  "description": "> [!NOTE] > The font-width property is the modern replacement for \"font-stretch\", which is a legacy alias. While font-width is the specification's preferred name, font-stretch currently has broader browser support. Check the fallback example and browser compatibility table for details.",
+  "syntax": "normal | <percentage [0,∞]> | ultra-condensed | extra-condensed | condensed | semi-condensed | semi-expanded | expanded | extra-expanded | ultra-expanded",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#propdef-font-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-width",
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "155",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

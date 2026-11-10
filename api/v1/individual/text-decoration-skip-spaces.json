@@ -1,0 +1,36 @@
+{
+  "id": "text-decoration-skip-spaces",
+  "name": "text-decoration-skip-spaces",
+  "description": null,
+  "syntax": "none | all | [ start || end ]",
+  "initial": "start end",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#propdef-text-decoration-skip-spaces"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "155",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

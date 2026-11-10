@@ -1,0 +1,36 @@
+{
+  "id": "timeline-trigger-active-range-start",
+  "name": "timeline-trigger-active-range-start",
+  "description": "The timeline-trigger-active-range-start CSS property specifies the start of a scroll-triggered animation trigger's active range.",
+  "syntax": "[ auto | normal | <length-percentage> | <timeline-range-name> <length-percentage>? ]#",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/animation-triggers-1/#propdef-timeline-trigger-active-range-start"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/timeline-trigger-active-range-start",
+  "support": {
+    "chrome": {
+      "added": "146",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

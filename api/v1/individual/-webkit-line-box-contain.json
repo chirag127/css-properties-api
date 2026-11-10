@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-line-box-contain",
+  "name": "-webkit-line-box-contain",
+  "description": null,
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "12",
+      "removed": "47",
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "≤5.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "transform",
+  "name": "transform",
+  "description": "The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model.",
+  "syntax": "none | <transform-list>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transforms-2/#transform-functions",
+    "https://drafts.csswg.org/css-transforms/#transform-property",
+    "https://w3c.github.io/svgwg/svg2-draft/coords.html#TransformProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transform",
+  "support": {
+    "chrome": {
+      "added": "36",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

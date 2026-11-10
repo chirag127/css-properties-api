@@ -1,0 +1,36 @@
+{
+  "id": "timeline-trigger-name",
+  "name": "timeline-trigger-name",
+  "description": "The timeline-trigger-name CSS property specifies a scroll-triggered animation trigger's identifier(s).",
+  "syntax": "none | <dashed-ident>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/animation-triggers-1/#propdef-timeline-trigger-name"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/timeline-trigger-name",
+  "support": {
+    "chrome": {
+      "added": "146",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

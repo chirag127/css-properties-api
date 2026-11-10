@@ -1,0 +1,36 @@
+{
+  "id": "view-transition-scope",
+  "name": "view-transition-scope",
+  "description": "The view-transition-scope CSS property enables the discoverability of elements with \"view-transition-name\" values set on them (and therefore the creation of view transition snapshots) to be isolated to a specific element subtree.",
+  "syntax": "none | all",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-view-transitions-2/#view-transition-scope-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-transition-scope",
+  "support": {
+    "chrome": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

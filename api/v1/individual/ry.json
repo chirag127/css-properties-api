@@ -1,0 +1,36 @@
+{
+  "id": "ry",
+  "name": "ry",
+  "description": "The ry CSS property defines the y-axis, or vertical, radius of an SVG \"ellipse\" and the vertical curve of the corners of an SVG \"rect\" rectangle. If present, it overrides the shape's \"ry\" attribute.",
+  "syntax": "<length-percentage> | auto",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "‘ellipse’, ‘rect’",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/geometry.html#RY"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ry",
+  "support": {
+    "chrome": {
+      "added": "43",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

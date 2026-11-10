@@ -1,0 +1,36 @@
+{
+  "id": "timeline-trigger-activation-range-end",
+  "name": "timeline-trigger-activation-range-end",
+  "description": "The timeline-trigger-activation-range-end CSS property specifies the end of a scroll-triggered animation trigger's activation range.",
+  "syntax": "[ normal | <length-percentage> | <timeline-range-name> <length-percentage>? ]#",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/animation-triggers-1/#propdef-timeline-trigger-activation-range-end"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/timeline-trigger-activation-range-end",
+  "support": {
+    "chrome": {
+      "added": "146",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

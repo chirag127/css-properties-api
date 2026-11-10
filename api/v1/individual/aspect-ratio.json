@@ -1,0 +1,36 @@
+{
+  "id": "aspect-ratio",
+  "name": "aspect-ratio",
+  "description": "The aspect-ratio CSS property allows you to define the desired width-to-height ratio of an element's box.",
+  "syntax": "auto || <ratio>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements except inline boxes and internal ruby or table boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing-4/#aspect-ratio"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/aspect-ratio",
+  "support": {
+    "chrome": {
+      "added": "88",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "89",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

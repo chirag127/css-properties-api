@@ -1,0 +1,36 @@
+{
+  "id": "custom-property",
+  "name": "custom-property",
+  "description": null,
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-variables/#defining-variables"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/--*",
+  "support": {
+    "chrome": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "31",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

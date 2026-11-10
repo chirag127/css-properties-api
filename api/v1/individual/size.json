@@ -1,0 +1,36 @@
+{
+  "id": "size",
+  "name": "size",
+  "description": null,
+  "syntax": "<'width'> <'height'>?",
+  "initial": "auto",
+  "inherited": "see individual properties",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing-4/#propdef-size"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

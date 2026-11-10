@@ -1,0 +1,34 @@
+{
+  "id": "box-flex",
+  "name": "box-flex",
+  "description": "> [!WARNING] > This is a property for controlling parts of the XUL box model. It does not match either the old CSS flexible box layout Module drafts for box-flex (which were based on this property) or the behavior of -webkit-box-flex (which is based on those drafts). See flexbox for information about the current standard.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "deprecated",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-flex",
+  "support": {
+    "chrome": {
+      "added": null,
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": null,
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": null,
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

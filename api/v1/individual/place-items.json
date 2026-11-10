@@ -1,0 +1,36 @@
+{
+  "id": "place-items",
+  "name": "place-items",
+  "description": "The place-items CSS shorthand property aligns items along both block and inline directions at the same time.",
+  "syntax": "<'align-items'> <'justify-items'>?",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#place-items-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/place-items",
+  "support": {
+    "chrome": {
+      "added": "59",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "45",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

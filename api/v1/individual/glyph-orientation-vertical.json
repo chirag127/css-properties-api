@@ -1,0 +1,36 @@
+{
+  "id": "glyph-orientation-vertical",
+  "name": "glyph-orientation-vertical",
+  "description": null,
+  "syntax": "auto | 0deg | 90deg | 0 | 90",
+  "initial": "n/a",
+  "inherited": "n/a",
+  "appliesTo": "n/a",
+  "status": "deprecated",
+  "specUrl": [
+    "https://drafts.csswg.org/css-writing-modes-4/#glyph-orientation"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

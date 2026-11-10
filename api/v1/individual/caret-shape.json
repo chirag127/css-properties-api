@@ -1,0 +1,36 @@
+{
+  "id": "caret-shape",
+  "name": "caret-shape",
+  "description": "The caret-shape CSS property sets the shape of the insertion caret, the visible marker that appears in editable elements to indicate where the next character will be inserted or deleted.",
+  "syntax": "auto | bar | block | underscore",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "text or elements that accept text input",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#propdef-caret-shape"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/caret-shape",
+  "support": {
+    "chrome": {
+      "added": "144",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

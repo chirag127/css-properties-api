@@ -1,0 +1,36 @@
+{
+  "id": "rule-overlap",
+  "name": "rule-overlap",
+  "description": "The rule-overlap CSS property specifies which rule is painted on top when column rules and row rules intersect.",
+  "syntax": "row-over-column | column-over-row",
+  "initial": "row-over-column",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-overlap"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rule-overlap",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

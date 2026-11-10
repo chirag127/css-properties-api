@@ -1,0 +1,37 @@
+{
+  "id": "alignment-baseline",
+  "name": "alignment-baseline",
+  "description": "The alignment-baseline CSS property specifies the specific baseline used to align the box's text and inline-level contents. Baseline alignment is the relationship among the baselines of multiple alignment subjects within an alignment context. When performing baseline alignment, the alignment-baseline property value specifies which baseline of the box is aligned to the corresponding baseline of its alignment context.",
+  "syntax": "baseline | <baseline-metric>",
+  "initial": "baseline",
+  "inherited": "no",
+  "appliesTo": "inline-level boxes, flex items, grid items, table cells, and SVG text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#alignment-baseline-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#AlignmentBaselineProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/alignment-baseline",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "5.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

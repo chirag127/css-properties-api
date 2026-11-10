@@ -1,0 +1,36 @@
+{
+  "id": "stroke-opacity",
+  "name": "stroke-opacity",
+  "description": "The stroke-opacity CSS property defines the opacity of an SVG shape's stroke. The effect is identical to that of 'opacity', except it is applied only to the stroke, not to the entire element. If present, it overrides the element's \"stroke-opacity\" attribute.",
+  "syntax": "<'opacity'>",
+  "initial": "1",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/fill-stroke-3/#stroke-opacity"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stroke-opacity",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

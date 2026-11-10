@@ -1,0 +1,36 @@
+{
+  "id": "-webkit-text-fill-color",
+  "name": "-webkit-text-fill-color",
+  "description": "The -webkit-text-fill-color CSS property specifies the fill color of characters of text. If this property is not set, the value of the \"color\" property is used.",
+  "syntax": "<color>",
+  "initial": "currentcolor",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://compat.spec.whatwg.org/#the-webkit-text-fill-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-fill-color",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "padding-inline-end",
+  "name": "padding-inline-end",
+  "description": "The padding-inline-end CSS property defines the logical inline end padding of an element, which maps to a physical padding depending on the element's writing mode, directionality, and text orientation.",
+  "syntax": "<'padding-top'>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "Same as padding-top",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#padding-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-inline-end",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

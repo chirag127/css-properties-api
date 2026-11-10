@@ -1,0 +1,36 @@
+{
+  "id": "gap",
+  "name": "gap",
+  "description": "The gap CSS shorthand property sets the gaps (also called \"gutters\") between rows and columns on multi-column, flex, and grid containers.",
+  "syntax": "<'row-gap'> <'column-gap'>?",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "multi-column containers, flex containers, grid containers, and grid lanes containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#gap-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/gap",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

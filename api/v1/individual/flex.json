@@ -1,0 +1,36 @@
+{
+  "id": "flex",
+  "name": "flex",
+  "description": "The flex CSS shorthand property sets how a \"flex item\" will grow or shrink to fit the space available in its flex container.",
+  "syntax": "none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]",
+  "initial": "0 1 auto",
+  "inherited": "no",
+  "appliesTo": "flex items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox/#flex-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "22",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

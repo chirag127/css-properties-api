@@ -1,0 +1,36 @@
+{
+  "id": "anchor-scope",
+  "name": "anchor-scope",
+  "description": "The anchor-scope CSS property can be used to limit the scope in which a positioned element can be associated with anchor elements to a particular subtree.",
+  "syntax": "none | all | <anchor-name>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position-1/#propdef-anchor-scope"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope",
+  "support": {
+    "chrome": {
+      "added": "131",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

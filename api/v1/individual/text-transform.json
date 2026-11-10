@@ -1,0 +1,36 @@
+{
+  "id": "text-transform",
+  "name": "text-transform",
+  "description": "The text-transform CSS property specifies how to capitalize an element's text. It can be used to make text appear in all-uppercase or all-lowercase, or with each word capitalized. It also can help improve legibility for ruby.",
+  "syntax": "none | [capitalize | uppercase | lowercase ] || full-width || full-size-kana | math-auto",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#text-transform-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-transform",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

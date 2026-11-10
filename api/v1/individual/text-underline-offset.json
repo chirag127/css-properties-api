@@ -1,0 +1,36 @@
+{
+  "id": "text-underline-offset",
+  "name": "text-underline-offset",
+  "description": "The text-underline-offset CSS property sets the offset distance of an underline text decoration line (applied using \"text-decoration\") from its original position.",
+  "syntax": "auto | <length-percentage>",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#underline-offset"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-underline-offset",
+  "support": {
+    "chrome": {
+      "added": "87",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "70",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

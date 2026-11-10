@@ -1,0 +1,36 @@
+{
+  "id": "text-decoration-inset",
+  "name": "text-decoration-inset",
+  "description": "The text-decoration-inset CSS property enables adjusting the start and end points of an element's text decoration so it can be shortened, lengthened, or have its position shifted with respect to the rendered text.",
+  "syntax": "<length-percentage>{1,2} | auto",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#propdef-text-decoration-inset"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration-inset",
+  "support": {
+    "chrome": {
+      "added": "157",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "146",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

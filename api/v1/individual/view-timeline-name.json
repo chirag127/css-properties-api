@@ -1,0 +1,36 @@
+{
+  "id": "view-timeline-name",
+  "name": "view-timeline-name",
+  "description": "The view-timeline-name CSS property specifies the names of one or more named view progress timelines associated with the element.",
+  "syntax": "[ none | <dashed-ident> ]#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/scroll-animations/#view-timeline-name"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-name",
+  "support": {
+    "chrome": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "159",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

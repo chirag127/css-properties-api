@@ -1,0 +1,36 @@
+{
+  "id": "animation-duration",
+  "name": "animation-duration",
+  "description": "The animation-duration CSS property sets the length of time that an animation takes to complete one cycle.",
+  "syntax": "[ auto | <time [0s,∞]> ]#",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-animations-2/#animation-duration"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-duration",
+  "support": {
+    "chrome": {
+      "added": "43",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

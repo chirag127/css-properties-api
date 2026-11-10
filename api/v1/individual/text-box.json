@@ -1,0 +1,36 @@
+{
+  "id": "text-box",
+  "name": "text-box",
+  "description": "The text-box CSS shorthand property corresponds to the \"text-box-trim\" and \"text-box-edge\" properties, which together specify the amount of space to trim from the block-start edge and block-end edge of a text element's block container.",
+  "syntax": "normal | <'text-box-trim'> || <'text-box-edge'>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "block containers, multi-column containers, and inline boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline-3/#text-box-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box",
+  "support": {
+    "chrome": {
+      "added": "133",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "154",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

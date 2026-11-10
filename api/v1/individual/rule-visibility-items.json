@@ -1,0 +1,36 @@
+{
+  "id": "rule-visibility-items",
+  "name": "rule-visibility-items",
+  "description": "The rule-visibility-items CSS shorthand property defines whether rule segments are painted in both row and column gaps adjacent to empty areas.",
+  "syntax": "<'column-rule-visibility-items'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-visibility-items and row-rule-visibility-items",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-visibility-items"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rule-visibility-items",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

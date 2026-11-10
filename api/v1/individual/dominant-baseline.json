@@ -1,0 +1,37 @@
+{
+  "id": "dominant-baseline",
+  "name": "dominant-baseline",
+  "description": "The dominant-baseline CSS property specifies the specific baseline used to align the box's text and inline-level contents. It also indicates the default alignment baseline of any boxes participating in baseline alignment in the box's alignment context. If present, it overrides the shape's \"dominant-baseline\" attribute.",
+  "syntax": "auto | <baseline-metric>",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "block containers, inline boxes, table rows, grid containers, flex containers, and SVG text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#dominant-baseline-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#DominantBaselineProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/dominant-baseline",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hyphens",
+  "name": "hyphens",
+  "description": "The hyphens CSS property specifies how words should be hyphenated when text wraps across multiple lines.",
+  "syntax": "none | manual | auto",
+  "initial": "manual",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#propdef-hyphens"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hyphens",
+  "support": {
+    "chrome": {
+      "added": "55",
+      "removed": null,
+      "prefixed": "13"
+    },
+    "firefox": {
+      "added": "43",
+      "removed": null,
+      "prefixed": "6"
+    },
+    "safari": {
+      "added": "17",
+      "removed": null,
+      "prefixed": "5.1"
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": "79"
+    }
+  }
+}

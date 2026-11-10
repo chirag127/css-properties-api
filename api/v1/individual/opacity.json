@@ -1,0 +1,37 @@
+{
+  "id": "opacity",
+  "name": "opacity",
+  "description": "The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.",
+  "syntax": "<opacity-value>",
+  "initial": "1",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-color/#propdef-opacity",
+    "https://w3c.github.io/svgwg/svg2-draft/render.html#ObjectAndGroupOpacityProperties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/opacity",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "safari": {
+      "added": "2",
+      "removed": null,
+      "prefixed": "1.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

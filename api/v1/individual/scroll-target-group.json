@@ -1,0 +1,36 @@
+{
+  "id": "scroll-target-group",
+  "name": "scroll-target-group",
+  "description": "The scroll-target-group CSS property specifies whether an element is a scroll marker group container.",
+  "syntax": "none | auto",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow-5/#scroll-target-group"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-target-group",
+  "support": {
+    "chrome": {
+      "added": "140",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

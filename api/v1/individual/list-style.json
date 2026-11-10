@@ -1,0 +1,36 @@
+{
+  "id": "list-style",
+  "name": "list-style",
+  "description": "The list-style CSS shorthand property allows you to set all the list style properties at once.",
+  "syntax": "<'list-style-position'> || <'list-style-image'> || <'list-style-type'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "list items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-lists/#list-style-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/list-style",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

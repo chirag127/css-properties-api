@@ -1,0 +1,36 @@
+{
+  "id": "list-style-position",
+  "name": "list-style-position",
+  "description": "The list-style-position CSS property sets the position of the \"::marker\" relative to a list item.",
+  "syntax": "inside | outside",
+  "initial": "outside",
+  "inherited": "yes",
+  "appliesTo": "list items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-lists/#list-style-position-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/list-style-position",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

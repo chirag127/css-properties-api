@@ -1,0 +1,36 @@
+{
+  "id": "font-feature-settings",
+  "name": "font-feature-settings",
+  "description": "The font-feature-settings CSS property controls advanced typographic features in OpenType fonts.",
+  "syntax": "normal | <feature-tag-value>#",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-feature-settings-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-feature-settings",
+  "support": {
+    "chrome": {
+      "added": "48",
+      "removed": null,
+      "prefixed": "16"
+    },
+    "firefox": {
+      "added": "34",
+      "removed": null,
+      "prefixed": "129"
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

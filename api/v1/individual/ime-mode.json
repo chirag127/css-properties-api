@@ -1,0 +1,36 @@
+{
+  "id": "ime-mode",
+  "name": "ime-mode",
+  "description": null,
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "deprecated",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#input-method-editor"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": "79",
+      "prefixed": "12"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "height",
+  "name": "height",
+  "description": "The height CSS property specifies the height of an element. By default, the property defines the height of the content area. If \"box-sizing\" is set to border-box, however, it instead determines the height of the border area.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing/#preferred-size-properties",
+    "https://drafts.csswg.org/css-sizing/#sizing-values"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/height",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

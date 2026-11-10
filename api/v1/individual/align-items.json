@@ -1,0 +1,37 @@
+{
+  "id": "align-items",
+  "name": "align-items",
+  "description": "The CSS align-items property sets the \"align-self\" value on all direct children as a group. In flexbox, it controls the alignment of items on the \"cross axis\". In grid layout, it controls the alignment of items on the block axis within their \"grid areas\".",
+  "syntax": "normal | stretch | <baseline-position> | <overflow-position>? <self-position>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#align-items-property",
+    "https://drafts.csswg.org/css-flexbox/#align-items-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/align-items",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "20",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

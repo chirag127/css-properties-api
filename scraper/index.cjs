@@ -1,6 +1,6 @@
 /**
  * CSS Properties Scraper
- * Source: MDN / W3C
+ * Source: MDN browser-compat-data, MDN content, W3C webref
  * Run: node scraper/index.cjs
  */
 const fs = require('fs');
@@ -11,7 +11,7 @@ const OUTPUT_DIR = path.join(__dirname, '../api/v1');
 
 async function scrape() {
   console.log('CSS Properties Scraper');
-  console.log('Source:', 'MDN / W3C');
+  console.log('Source:', "MDN browser-compat-data, MDN content, W3C webref");
   console.log('Note: Static reference data. Validating existing data.');
 
   const existing = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, 'data.json'), 'utf8'));

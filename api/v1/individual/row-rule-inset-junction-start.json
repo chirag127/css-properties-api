@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-inset-junction-start",
+  "name": "row-rule-inset-junction-start",
+  "description": "The row-rule-inset-junction-start CSS property can be used to offset the start edge of row rule segments that are junction endpoints; that is, endpoints at gap junctions where rule segments intersect.",
+  "syntax": "<inset-value>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-junction-start"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-rule-inset-junction-start",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

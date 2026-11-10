@@ -1,0 +1,36 @@
+{
+  "id": "rotate",
+  "name": "rotate",
+  "description": "The rotate CSS property allows you to specify rotation transforms individually and independently of the \"transform\" property. This maps better to typical user interface usage, and saves having to remember the exact order of transform functions to specify in the transform property.",
+  "syntax": "none | <angle> | [ x | y | z | <number>{3} ] && <angle>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transforms-2/#propdef-rotate"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rotate",
+  "support": {
+    "chrome": {
+      "added": "104",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "72",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

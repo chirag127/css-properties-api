@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-tap-highlight-color",
+  "name": "-webkit-tap-highlight-color",
+  "description": "-webkit-tap-highlight-color is a non-standard CSS property that sets the color of the highlight that appears over a link while it's being tapped. The highlighting indicates to the user that their tap is being successfully recognized, and indicates which element they're tapping on.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-tap-highlight-color",
+  "support": {
+    "chrome": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

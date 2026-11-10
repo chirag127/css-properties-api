@@ -1,0 +1,36 @@
+{
+  "id": "box-shadow",
+  "name": "box-shadow",
+  "description": "The box-shadow CSS property adds shadow effects around an element's frame. You can set multiple effects separated by commas. A box shadow is described by X and Y offsets relative to the element, blur and spread radius, and color.",
+  "syntax": "none | <shadow>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#propdef-box-shadow"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-shadow",
+  "support": {
+    "chrome": {
+      "added": "10",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "5.1",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

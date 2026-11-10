@@ -1,0 +1,36 @@
+{
+  "id": "animation-timing-function",
+  "name": "animation-timing-function",
+  "description": "The animation-timing-function CSS property sets how an animation progresses through the duration of each cycle.",
+  "syntax": "<easing-function>#",
+  "initial": "ease",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-animations/#animation-timing-function"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-timing-function",
+  "support": {
+    "chrome": {
+      "added": "43",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

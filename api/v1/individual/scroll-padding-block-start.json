@@ -1,0 +1,36 @@
+{
+  "id": "scroll-padding-block-start",
+  "name": "scroll-padding-block-start",
+  "description": "The scroll-padding-block-start property defines offsets for the start edge in the block dimension of the optimal viewing region of the scrollport: the region used as the target region for placing things in view of the user. This allows the author to exclude regions of the scrollport that are obscured by other content (such as fixed-positioned toolbars or sidebars) or to put more breathing room between a targeted element and the edges of the scrollport.",
+  "syntax": "auto | <length-percentage [0,∞]>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#padding-longhands-logical"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-padding-block-start",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "68",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

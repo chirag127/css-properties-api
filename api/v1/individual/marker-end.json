@@ -1,0 +1,36 @@
+{
+  "id": "marker-end",
+  "name": "marker-end",
+  "description": "The marker-end CSS property points to a marker that will be drawn on the last vertex of the element's path; that is, at its ending vertex. The marker must have been defined using an SVG 'marker' element, and can only be referenced with a \"urlvalue\", \"&lt;url&gt;\" value. The value of the CSS property overrides any values of the marker-end attribute in the SVG.",
+  "syntax": "none | <marker-ref>",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "shapes",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#MarkerEndProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/marker-end",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

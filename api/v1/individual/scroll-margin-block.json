@@ -1,0 +1,36 @@
+{
+  "id": "scroll-margin-block",
+  "name": "scroll-margin-block",
+  "description": "The scroll-margin-block CSS shorthand property sets the scroll margins of an element in the block dimension.",
+  "syntax": "<length>{1,2}",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#propdef-scroll-margin-block"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-margin-block",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "68",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

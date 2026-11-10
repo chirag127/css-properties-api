@@ -1,0 +1,36 @@
+{
+  "id": "quotes",
+  "name": "quotes",
+  "description": "The CSS quotes property sets how the browser should render quotation marks that are automatically added to the HTML \"q\" element or added using the open-quotes or close-quotes (or omitted using the no-open-quote and no-close-quote) values of the of the CSS \"content\" property.",
+  "syntax": "auto | none | bikeshed-this | [ <string> <string> ]+",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-content/#quotes"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/quotes",
+  "support": {
+    "chrome": {
+      "added": "11",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

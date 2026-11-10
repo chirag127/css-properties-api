@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-color",
+  "name": "row-rule-color",
+  "description": "The row-rule-color CSS property defines the colors of the lines drawn between rows in multi-row grid, flex, and multi-col layouts.",
+  "syntax": "<line-color-list> | <auto-line-color-list>",
+  "initial": "currentcolor",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-rule-color",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

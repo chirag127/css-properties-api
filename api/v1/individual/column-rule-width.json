@@ -1,0 +1,36 @@
+{
+  "id": "column-rule-width",
+  "name": "column-rule-width",
+  "description": "The column-rule-width CSS property defines the widths of the lines drawn between columns in multi-column grid, flex, and multi-col layouts.",
+  "syntax": "<line-width-list> | <auto-line-width-list>",
+  "initial": "medium",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol/#crw"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-width",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": "3.5"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

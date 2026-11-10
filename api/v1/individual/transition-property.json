@@ -1,0 +1,36 @@
+{
+  "id": "transition-property",
+  "name": "transition-property",
+  "description": "The transition-property CSS property sets the CSS properties to which a transition effect should be applied.",
+  "syntax": "none | <single-transition-property>#",
+  "initial": "all",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transitions/#transition-property-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition-property",
+  "support": {
+    "chrome": {
+      "added": "26",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

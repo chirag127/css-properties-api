@@ -1,0 +1,36 @@
+{
+  "id": "max-lines",
+  "name": "max-lines",
+  "description": null,
+  "syntax": "auto || <integer [1,∞]>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "block containers which are also either line-clamp containers or fragmentation containers that capture region breaks",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow-4/#propdef-max-lines"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

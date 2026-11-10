@@ -1,0 +1,36 @@
+{
+  "id": "border-left-color",
+  "name": "border-left-color",
+  "description": "The border-left-color CSS property sets the color of an element's left border. It can also be set with the shorthand CSS properties \"border-color\" or \"border-left\".",
+  "syntax": "<color>",
+  "initial": "currentColor",
+  "inherited": "no",
+  "appliesTo": "all elements except ruby base containers and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#border-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-left-color",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

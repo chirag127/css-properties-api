@@ -1,0 +1,36 @@
+{
+  "id": "math-depth",
+  "name": "math-depth",
+  "description": "The math-depth property describes a notion of depth for each element of a mathematical formula, with respect to the top-level container of that formula. This is used to scale the computed value of the font-size of elements when font-size: math is applied.",
+  "syntax": "auto-add | add(<integer>) | <integer>",
+  "initial": "0",
+  "inherited": "yes",
+  "appliesTo": "All elements",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/mathml-core/#the-math-script-level-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-depth",
+  "support": {
+    "chrome": {
+      "added": "109",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "117",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

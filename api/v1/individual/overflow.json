@@ -1,0 +1,37 @@
+{
+  "id": "overflow",
+  "name": "overflow",
+  "description": "The overflow CSS shorthand property sets the desired behavior when content does not fit in the element's padding box (overflows) in the horizontal and/or vertical direction.",
+  "syntax": "<'overflow-block'>{1,2}",
+  "initial": "visible",
+  "inherited": "no",
+  "appliesTo": "block containers [CSS2], flex containers [CSS3-FLEXBOX], and grid containers [CSS3-GRID-LAYOUT]",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow/#propdef-overflow",
+    "https://w3c.github.io/svgwg/svg2-draft/render.html#OverflowAndClipProperties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

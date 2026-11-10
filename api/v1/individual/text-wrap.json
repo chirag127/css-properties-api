@@ -1,0 +1,36 @@
+{
+  "id": "text-wrap",
+  "name": "text-wrap",
+  "description": "The text-wrap CSS shorthand property controls how text inside an element is wrapped. The different values provide:",
+  "syntax": "<'text-wrap-mode'> || <'text-wrap-style'>",
+  "initial": "wrap",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#text-wrap-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap",
+  "support": {
+    "chrome": {
+      "added": "114",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "121",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

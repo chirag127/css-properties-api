@@ -1,0 +1,36 @@
+{
+  "id": "path-length",
+  "name": "path-length",
+  "description": "The path-length CSS property specifies a total path length, in user units. All path computations are then scaled using the ratio path-length / (computed value of path length) — this includes text paths, animation paths, and various stroke operations.",
+  "syntax": "none | <length [0,∞]>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "‘path’, ‘circle’, ‘ellipse’, ‘line’, ‘polygon’, ‘polyline’, ‘rect’",
+  "status": "experimental",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/paths.html#PathLengthProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/path-length",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

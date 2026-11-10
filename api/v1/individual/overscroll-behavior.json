@@ -1,0 +1,36 @@
+{
+  "id": "overscroll-behavior",
+  "name": "overscroll-behavior",
+  "description": "The overscroll-behavior CSS property controls what happens when scrolling reaches the edge of a scroll container.",
+  "syntax": "[ contain | none | auto | chain ]{1,2}",
+  "initial": "auto auto",
+  "inherited": "no",
+  "appliesTo": "scroll container elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overscroll/#overscroll-behavior-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior",
+  "support": {
+    "chrome": {
+      "added": "144",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "150",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

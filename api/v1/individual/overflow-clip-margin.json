@@ -1,0 +1,36 @@
+{
+  "id": "overflow-clip-margin",
+  "name": "overflow-clip-margin",
+  "description": "The overflow-clip-margin CSS property determines how far outside its bounds an element with overflow: clip may be painted before being clipped. The bound defined by this property is called the overflow clip edge of the box.",
+  "syntax": "<visual-box> || <length>",
+  "initial": "0px",
+  "inherited": "no",
+  "appliesTo": "boxes to which overflow applies",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow/#overflow-clip-margin"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-clip-margin",
+  "support": {
+    "chrome": {
+      "added": "90",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "102",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "grid-template",
+  "name": "grid-template",
+  "description": "The grid-template CSS shorthand property specifies the \"grid column\", \"grid columns\", \"gridrow\", \"grid rows\", and \"grid areas\", \"grid areas\".",
+  "syntax": "none | [ <'grid-template-rows'> / <'grid-template-columns'> ] | [ <line-names>? <string> <track-size>? <line-names>? ]+ [ / <explicit-track-list> ]?",
+  "initial": "none",
+  "inherited": "see individual properties",
+  "appliesTo": "grid containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-grid/#explicit-grid-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-template",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "flex-flow",
+  "name": "flex-flow",
+  "description": "The flex-flow CSS shorthand property specifies the direction of a flex container, as well as its wrapping behavior.",
+  "syntax": "<'flex-direction'> || <'flex-wrap'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox/#flex-flow-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex-flow",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "28",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

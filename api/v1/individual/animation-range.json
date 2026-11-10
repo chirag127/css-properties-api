@@ -1,0 +1,36 @@
+{
+  "id": "animation-range",
+  "name": "animation-range",
+  "description": "The animation-range CSS shorthand property is used to set the start and end of an animation's attachment range along its timeline, i.e., where along the timeline an animation will start and end.",
+  "syntax": "[ <'animation-range-start'> <'animation-range-end'>? ]#",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/scroll-animations/#animation-range"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range",
+  "support": {
+    "chrome": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "159",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

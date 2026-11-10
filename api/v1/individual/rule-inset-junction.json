@@ -1,0 +1,36 @@
+{
+  "id": "rule-inset-junction",
+  "name": "rule-inset-junction",
+  "description": "The rule-inset-junction CSS shorthand property can be used to offset the column and row rule segment junction endpoints to the same value.",
+  "syntax": "<'column-rule-inset-junction'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-inset-junction and row-rule-inset-junction",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-junction"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rule-inset-junction",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

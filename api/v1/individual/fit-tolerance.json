@@ -1,0 +1,36 @@
+{
+  "id": "fit-tolerance",
+  "name": "fit-tolerance",
+  "description": null,
+  "syntax": "normal | <length-percentage [0,∞]> | infinite",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-grid-3/#propdef-fit-tolerance"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "column-rule-inset-cap",
+  "name": "column-rule-inset-cap",
+  "description": "The column-rule-inset-cap shorthand CSS property can be used to offset the column rule segment cap endpoints at the container's start and end edges, and endpoints where the segments don't intersect other row or column segments.",
+  "syntax": "<inset-value> <inset-value>?",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-inset-cap-start, column-rule-inset-cap-end, column-rule-inset-junction-start, column-rule-inset-junction-end, row-rule-inset-cap-start, row-rule-inset-cap-end, row-rule-inset-junction-start, and row-rule-inset-junction-end",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-cap"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-inset-cap",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

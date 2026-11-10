@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-inset",
+  "name": "row-rule-inset",
+  "description": null,
+  "syntax": "<'column-rule-inset-cap'> [ / <'column-rule-inset-junction'> ]?",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-inset-cap, column-rule-inset-junction, row-rule-inset-cap, and row-rule-inset-junction",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

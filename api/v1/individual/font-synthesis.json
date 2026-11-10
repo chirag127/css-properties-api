@@ -1,0 +1,36 @@
+{
+  "id": "font-synthesis",
+  "name": "font-synthesis",
+  "description": "The font-synthesis CSS shorthand property lets you specify whether or not the browser may synthesize the bold, italic, small-caps, and/or subscript and superscript typefaces when they are missing in the specified font-family.",
+  "syntax": "none | [ weight || style || small-caps || position]",
+  "initial": "weight style small-caps position",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-synthesis"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis",
+  "support": {
+    "chrome": {
+      "added": "97",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "34",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

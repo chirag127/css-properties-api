@@ -1,0 +1,36 @@
+{
+  "id": "clip",
+  "name": "clip",
+  "description": "> [!WARNING] > Authors are encouraged to use the \"clip-path\" property instead.",
+  "syntax": "<rect()> | auto",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "Absolutely positioned elements. In SVG, it applies to elements which establish a new viewport, pattern elements and mask elements.",
+  "status": "deprecated",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#propdef-clip"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

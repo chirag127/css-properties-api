@@ -1,0 +1,36 @@
+{
+  "id": "stroke-dashoffset",
+  "name": "stroke-dashoffset",
+  "description": "The stroke-dashoffset CSS property defines an offset for the starting point of the rendering of an SVG element's associated dash array. If present, it overrides the element's \"stroke-dashoffset\" attribute.",
+  "syntax": "<length-percentage> | <number>",
+  "initial": "0",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/fill-stroke-3/#stroke-dashoffset"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stroke-dashoffset",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

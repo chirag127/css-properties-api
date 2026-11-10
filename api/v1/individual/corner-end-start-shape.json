@@ -1,0 +1,36 @@
+{
+  "id": "corner-end-start-shape",
+  "name": "corner-end-start-shape",
+  "description": "The corner-end-start-shape CSS property specifies the shape of a box's block-end and inline-start corner, within its \"border-radius\" area.",
+  "syntax": "<corner-shape-value>",
+  "initial": "round",
+  "inherited": "no",
+  "appliesTo": "all elements where border-radius can apply",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-borders/#propdef-corner-end-start-shape"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/corner-end-start-shape",
+  "support": {
+    "chrome": {
+      "added": "139",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-hyphenate-limit-lines",
+  "name": "-webkit-hyphenate-limit-lines",
+  "description": null,
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "16",
+      "removed": "30",
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

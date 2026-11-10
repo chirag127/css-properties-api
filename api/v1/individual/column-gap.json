@@ -1,0 +1,38 @@
+{
+  "id": "column-gap",
+  "name": "column-gap",
+  "description": "The column-gap CSS property sets the size of the gap (\"Gutters\",\"gutter\") between an element's columns in multi-column, flexible box, and grid layouts.",
+  "syntax": "normal | <length-percentage [0,∞]> | <line-width>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "multi-column containers, flex containers, grid containers, and grid lanes containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#column-row-gap",
+    "https://drafts.csswg.org/css-grid/#gutters",
+    "https://drafts.csswg.org/css-multicol/#column-gap"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-gap",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

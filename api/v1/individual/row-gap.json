@@ -1,0 +1,36 @@
+{
+  "id": "row-gap",
+  "name": "row-gap",
+  "description": "The row-gap CSS property sets the size of the gap (\"gutters\",\"gutter\") between an element's rows in multi-column, flexible box, and grid layouts.",
+  "syntax": "normal | <length-percentage [0,∞]> | <line-width>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "multi-column containers, flex containers, grid containers, and grid lanes containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#column-row-gap"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-gap",
+  "support": {
+    "chrome": {
+      "added": "47",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

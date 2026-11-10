@@ -1,0 +1,37 @@
+{
+  "id": "column-rule-color",
+  "name": "column-rule-color",
+  "description": "The column-rule-color CSS property defines the colors of the lines drawn between columns in multi-column grid, flex, and multi-col layouts.",
+  "syntax": "<line-color-list> | <auto-line-color-list>",
+  "initial": "currentcolor",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol/#propdef-column-rule-color",
+    "https://drafts.csswg.org/css-gaps/#propdef-column-rule-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-color",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": "3.5"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

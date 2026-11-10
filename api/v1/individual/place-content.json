@@ -1,0 +1,36 @@
+{
+  "id": "place-content",
+  "name": "place-content",
+  "description": "The place-content CSS shorthand property allows you to align content along both the block and inline directions at once (i.e., the \"align-content\" and \"justify-content\" properties) in a relevant layout system such as Grid or Flexbox.",
+  "syntax": "<'align-content'> <'justify-content'>?",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#place-content"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/place-content",
+  "support": {
+    "chrome": {
+      "added": "59",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "45",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

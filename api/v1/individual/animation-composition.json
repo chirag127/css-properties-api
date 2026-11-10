@@ -1,0 +1,36 @@
+{
+  "id": "animation-composition",
+  "name": "animation-composition",
+  "description": "The animation-composition CSS property specifies the \"composite operation\" to use when multiple animations affect the same property simultaneously.",
+  "syntax": "<single-animation-composition>#",
+  "initial": "replace",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-animations-2/#animation-composition"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-composition",
+  "support": {
+    "chrome": {
+      "added": "112",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

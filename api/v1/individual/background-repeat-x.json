@@ -1,0 +1,36 @@
+{
+  "id": "background-repeat-x",
+  "name": "background-repeat-x",
+  "description": "The background-repeat-x CSS property sets how background images are repeated, or not, along the horizontal axis.",
+  "syntax": "<repetition>#",
+  "initial": "repeat",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds-4/#background-repeat-longhands"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-repeat-x",
+  "support": {
+    "chrome": {
+      "added": "5",
+      "removed": "120",
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "5",
+      "removed": "15",
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "user-modify",
+  "name": "user-modify",
+  "description": "The user-modify property has no effect in Firefox. It was originally planned to determine whether or not the content of an element can be edited by a user.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "deprecated",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/user-modify",
+  "support": {
+    "chrome": {
+      "added": null,
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": null,
+      "removed": null,
+      "prefixed": "1"
+    },
+    "safari": {
+      "added": null,
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

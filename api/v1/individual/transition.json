@@ -1,0 +1,36 @@
+{
+  "id": "transition",
+  "name": "transition",
+  "description": "The transition CSS shorthand property for \"transition-property\", \"transition-duration\", \"transition-timing-function\", \"transition-delay\", and \"transition-behavior\".",
+  "syntax": "<single-transition>#",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transitions/#transition-shorthand-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition",
+  "support": {
+    "chrome": {
+      "added": "26",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

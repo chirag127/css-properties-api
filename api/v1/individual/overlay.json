@@ -1,0 +1,36 @@
+{
+  "id": "overlay",
+  "name": "overlay",
+  "description": "The overlay CSS property specifies whether an element appearing in the top layer (for example, a shown popover or modal \"dialog\" element) is actually rendered in the top layer. This property is only relevant within a list of \"transition-property\" values, and only if allow-discrete is set as the \"transition-behavior\".",
+  "syntax": "none | auto",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-position-4/#overlay"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overlay",
+  "support": {
+    "chrome": {
+      "added": "117",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

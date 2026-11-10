@@ -1,0 +1,36 @@
+{
+  "id": "stroke-width",
+  "name": "stroke-width",
+  "description": "The stroke-width CSS property defines the width of a stroke applied to the SVG shape. If present, it overrides the element's \"stroke-width\" attribute.",
+  "syntax": "<length-percentage> | <number>",
+  "initial": "1px",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/fill-stroke-3/#stroke-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stroke-width",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

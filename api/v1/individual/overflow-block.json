@@ -1,0 +1,36 @@
+{
+  "id": "overflow-block",
+  "name": "overflow-block",
+  "description": "The overflow-block CSS property sets what shows when content overflows the block start and block end edges of a box. This may be nothing, a scroll bar, or the overflow content.",
+  "syntax": "visible | hidden | clip | scroll | auto",
+  "initial": "visible",
+  "inherited": "no",
+  "appliesTo": "block containers [CSS2], flex containers [CSS-FLEXBOX-1], grid containers [CSS-GRID-1], and table grid boxes [CSS-TABLES-3]",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow/#overflow-control"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-block",
+  "support": {
+    "chrome": {
+      "added": "135",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

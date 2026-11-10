@@ -1,0 +1,36 @@
+{
+  "id": "timeline-scope",
+  "name": "timeline-scope",
+  "description": "The timeline-scope CSS property modifies the scope of a named animation timeline.",
+  "syntax": "none | all | <dashed-ident>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/scroll-animations/#propdef-timeline-scope"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/timeline-scope",
+  "support": {
+    "chrome": {
+      "added": "116",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "159",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

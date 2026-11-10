@@ -1,0 +1,36 @@
+{
+  "id": "font-palette",
+  "name": "font-palette",
+  "description": "The font-palette CSS property allows specifying one of the many palettes contained in a color font that a user agent may use for the font. Users can also override the values in a palette or create a new palette by using the \"@font-palette-values\" at-rule.",
+  "syntax": "normal | light | dark | <palette-identifier> | <palette-mix()>",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-palette-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-palette",
+  "support": {
+    "chrome": {
+      "added": "101",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "107",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

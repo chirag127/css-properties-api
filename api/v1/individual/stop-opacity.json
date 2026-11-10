@@ -1,0 +1,36 @@
+{
+  "id": "stop-opacity",
+  "name": "stop-opacity",
+  "description": "The stop-opacity CSS property defines the opacity of a given color gradient stop in the SVG \"stop\" element within an SVG gradient. If present, it overrides the element's \"stop-opacity\" attribute.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/pservers.html#StopOpacityProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stop-opacity",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

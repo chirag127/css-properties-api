@@ -1,0 +1,36 @@
+{
+  "id": "list-style-image",
+  "name": "list-style-image",
+  "description": "The list-style-image CSS property sets an image to be used as the list item marker.",
+  "syntax": "<image> | none",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "list items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-lists/#image-markers"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/list-style-image",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

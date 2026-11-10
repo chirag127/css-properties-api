@@ -1,0 +1,36 @@
+{
+  "id": "text-indent",
+  "name": "text-indent",
+  "description": "The text-indent CSS property sets the length of empty space (indentation) that is put before lines of text in a block.",
+  "syntax": "[ <length-percentage> ] && hanging? && each-line?",
+  "initial": "0",
+  "inherited": "yes",
+  "appliesTo": "block containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#text-indent-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-indent",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "font-size-adjust",
+  "name": "font-size-adjust",
+  "description": "The font-size-adjust CSS property adjusts the size of a font to match a chosen font metric, such as the height of lowercase letters, to a specified proportion of the \"font-size\". This property is intended for adjusting fallback fonts to have similar metrics as the first-choice font.",
+  "syntax": "none | [ ex-height | cap-height | ch-width | ic-width | ic-height ]? [ from-font | <number [0,∞]> ]",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts-5/#font-size-adjust-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-size-adjust",
+  "support": {
+    "chrome": {
+      "added": "127",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

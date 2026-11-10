@@ -1,0 +1,36 @@
+{
+  "id": "flood-opacity",
+  "name": "flood-opacity",
+  "description": "The flood-opacity CSS property defines the opacity of the current filter primitive subregion in \"feFlood\" and \"feDropShadow\" elements within a \"filter\". If present, it overrides the element's \"flood-opacity\" attribute.",
+  "syntax": "<'opacity'>",
+  "initial": "1",
+  "inherited": "no",
+  "appliesTo": "feFlood and feDropShadow elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/filter-effects/#FloodOpacityProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flood-opacity",
+  "support": {
+    "chrome": {
+      "added": "5",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

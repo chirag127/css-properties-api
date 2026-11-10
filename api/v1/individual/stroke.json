@@ -1,0 +1,36 @@
+{
+  "id": "stroke",
+  "name": "stroke",
+  "description": "The stroke CSS property defines the color or SVG paint server used to draw an element's stroke. As such, stroke only has an effect on elements that can be given a stroke (for example, 'rect' or 'ellipse'); see the page on the SVG 'stroke' attribute for a complete list. When declared, the CSS value overrides any value of the element's \"stroke\" SVG attribute.",
+  "syntax": "<paint>",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#StrokeProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stroke",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

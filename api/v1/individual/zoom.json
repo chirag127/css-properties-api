@@ -1,0 +1,36 @@
+{
+  "id": "zoom",
+  "name": "zoom",
+  "description": "The zoom CSS property can be used to control the magnification level of an element. \"transform-function/scale\", \"transform: scale()\" can be used as an alternative to this property.",
+  "syntax": "<number [0,∞]> | <percentage [0,∞]>",
+  "initial": "1",
+  "inherited": "no",
+  "appliesTo": "all <length> property values of all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-viewport/#zoom-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/zoom",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "126",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

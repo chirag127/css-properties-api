@@ -1,0 +1,36 @@
+{
+  "id": "cursor",
+  "name": "cursor",
+  "description": "The cursor CSS property sets the mouse cursor, if any, to show when the mouse pointer is over an element.",
+  "syntax": "[<cursor-image>,]* <cursor-predefined>",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#cursor"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/cursor",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pointer-events",
+  "name": "pointer-events",
+  "description": "The pointer-events CSS property sets under what circumstances (if any) a particular graphic element can become the target of pointer events.",
+  "syntax": "auto | bounding-box | visiblePainted | visibleFill | visibleStroke | visible | painted | fill | stroke | all | none",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "container elements, graphics elements and ‘use’",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#pointer-events-control",
+    "https://w3c.github.io/svgwg/svg2-draft/interact.html#PointerEventsProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/pointer-events",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

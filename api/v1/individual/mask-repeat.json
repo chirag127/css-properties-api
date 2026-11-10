@@ -1,0 +1,36 @@
+{
+  "id": "mask-repeat",
+  "name": "mask-repeat",
+  "description": "The mask-repeat CSS property sets how mask images are repeated. A mask image can be repeated along the horizontal axis, the vertical axis, both axes, or not repeated at all.",
+  "syntax": "<repeat-style>#",
+  "initial": "repeat",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements excluding the defs element, all graphics elements and the use element",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-mask-repeat"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-repeat",
+  "support": {
+    "chrome": {
+      "added": "120",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "53",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": "3.1"
+    },
+    "edge": {
+      "added": "120",
+      "removed": null,
+      "prefixed": "79"
+    }
+  }
+}

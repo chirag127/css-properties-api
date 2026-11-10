@@ -1,0 +1,37 @@
+{
+  "id": "list-style-type",
+  "name": "list-style-type",
+  "description": "The list-style-type CSS property sets the marker (such as a disc, character, or custom counter style) of a list item element.",
+  "syntax": "<counter-style> | <string> | none",
+  "initial": "disc",
+  "inherited": "yes",
+  "appliesTo": "list items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-lists/#text-markers",
+    "https://drafts.csswg.org/css-counter-styles/#extending-css2"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/list-style-type",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

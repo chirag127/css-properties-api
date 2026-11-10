@@ -1,0 +1,36 @@
+{
+  "id": "font-kerning",
+  "name": "font-kerning",
+  "description": "The font-kerning CSS property sets the use of the kerning information stored in a font.",
+  "syntax": "auto | normal | none",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-kerning-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-kerning",
+  "support": {
+    "chrome": {
+      "added": "33",
+      "removed": null,
+      "prefixed": "29"
+    },
+    "firefox": {
+      "added": "32",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "6"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "position-visibility",
+  "name": "position-visibility",
+  "description": "The position-visibility CSS property enables conditionally hiding an anchor-positioned element depending on, for example, whether it is overflowing its containing element or the viewport.",
+  "syntax": "always | [ anchor-valid || anchor-visible || no-overflow ]",
+  "initial": "anchor-visible",
+  "inherited": "no",
+  "appliesTo": "absolutely positioned boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position-1/#position-visibility"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility",
+  "support": {
+    "chrome": {
+      "added": "125",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

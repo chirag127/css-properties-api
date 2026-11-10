@@ -1,0 +1,36 @@
+{
+  "id": "background-origin",
+  "name": "background-origin",
+  "description": "The background-origin CSS property sets the background's origin: from the border start, inside the border, or inside the padding.",
+  "syntax": "<visual-box>#",
+  "initial": "padding-box",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#background-origin"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-origin",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "margin",
+  "name": "margin",
+  "description": "The margin CSS shorthand property sets the margin area on all four sides of an element.",
+  "syntax": "<'margin-top'>{1,4}",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements except internal table elements, ruby base containers, and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-box/#margin"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/margin",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

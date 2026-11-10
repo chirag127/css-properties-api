@@ -1,0 +1,36 @@
+{
+  "id": "border-radius",
+  "name": "border-radius",
+  "description": "The border-radius CSS shorthand property rounds the corners of an element's outer border edge. You can set a single radius to make circular corners, or two radii to make elliptical corners.",
+  "syntax": "<length-percentage [0,∞]>{1,4} [ / <length-percentage [0,∞]>{1,4} ]?",
+  "initial": "see individual properties",
+  "inherited": "no",
+  "appliesTo": "all elements (but see prose)",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#propdef-border-radius"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-radius",
+  "support": {
+    "chrome": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "safari": {
+      "added": "5",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

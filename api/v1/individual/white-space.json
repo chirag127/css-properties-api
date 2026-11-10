@@ -1,0 +1,37 @@
+{
+  "id": "white-space",
+  "name": "white-space",
+  "description": "The white-space CSS shorthand property sets how \"whitespace\", \"white space\" inside an element is handled.",
+  "syntax": "normal | pre | pre-wrap | pre-line | <'white-space-collapse'> || <'text-wrap-mode'> || <'white-space-trim'>",
+  "initial": "normal",
+  "inherited": "see individual properties",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#white-space-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#TextWhiteSpace"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/white-space",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

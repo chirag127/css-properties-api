@@ -1,0 +1,36 @@
+{
+  "id": "tab-size",
+  "name": "tab-size",
+  "description": "The tab-size CSS property is used to customize the width of tab characters (U+0009).",
+  "syntax": "<number [0,∞]> | <length [0,∞]>",
+  "initial": "8",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#tab-size-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/tab-size",
+  "support": {
+    "chrome": {
+      "added": "21",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "91",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

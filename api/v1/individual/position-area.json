@@ -1,0 +1,36 @@
+{
+  "id": "position-area",
+  "name": "position-area",
+  "description": "The position-area CSS property enables an anchor-positioned element to be positioned relative to the edges of its associated anchor element by placing the positioned element on one or more tiles of an implicit 3x3 grid, where the anchoring element is the center cell.",
+  "syntax": "none | <position-area>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "positioned boxes with a default anchor box",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position/#position-area"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-area",
+  "support": {
+    "chrome": {
+      "added": "129",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

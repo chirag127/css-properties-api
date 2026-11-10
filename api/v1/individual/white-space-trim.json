@@ -1,0 +1,36 @@
+{
+  "id": "white-space-trim",
+  "name": "white-space-trim",
+  "description": null,
+  "syntax": "none | discard-before || discard-after || discard-inner",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "inline boxes and block containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#propdef-white-space-trim"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

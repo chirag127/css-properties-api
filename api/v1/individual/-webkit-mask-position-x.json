@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-mask-position-x",
+  "name": "-webkit-mask-position-x",
+  "description": "The -webkit-mask-position-x CSS property sets the initial horizontal position of a mask image.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-mask-position-x",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

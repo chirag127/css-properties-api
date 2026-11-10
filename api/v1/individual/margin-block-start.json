@@ -1,0 +1,36 @@
+{
+  "id": "margin-block-start",
+  "name": "margin-block-start",
+  "description": "The margin-block-start CSS property defines the logical block start margin of an element, which maps to a physical margin depending on the element's writing mode, directionality, and text orientation.",
+  "syntax": "<'margin-top'>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "Same as margin-top",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#margin-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/margin-block-start",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

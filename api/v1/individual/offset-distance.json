@@ -1,0 +1,36 @@
+{
+  "id": "offset-distance",
+  "name": "offset-distance",
+  "description": "The offset-distance CSS property specifies a position along an \"offset-path\" for an element to be placed.",
+  "syntax": "<length-percentage>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/motion/#offset-distance-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/offset-distance",
+  "support": {
+    "chrome": {
+      "added": "55",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "72",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

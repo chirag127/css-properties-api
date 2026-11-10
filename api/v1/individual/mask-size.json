@@ -1,0 +1,36 @@
+{
+  "id": "mask-size",
+  "name": "mask-size",
+  "description": "The mask-size CSS property specifies the sizes of specified mask images. Mask image sizes can be fully or partially constrained to preserve their \"aspect ratio\", \"intrinsic aspect ratios\".",
+  "syntax": "<bg-size>#",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements excluding the defs element, all graphics elements and the use element",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-mask-size"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-size",
+  "support": {
+    "chrome": {
+      "added": "120",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "firefox": {
+      "added": "53",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "edge": {
+      "added": "120",
+      "removed": null,
+      "prefixed": "79"
+    }
+  }
+}

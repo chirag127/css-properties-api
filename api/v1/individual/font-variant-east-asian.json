@@ -1,0 +1,36 @@
+{
+  "id": "font-variant-east-asian",
+  "name": "font-variant-east-asian",
+  "description": "The font-variant-east-asian CSS property controls the use of alternate glyphs for East Asian scripts, like Japanese and Chinese.",
+  "syntax": "normal | [ <east-asian-variant-values> || <east-asian-width-values> || ruby ]",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-variant-east-asian-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-east-asian",
+  "support": {
+    "chrome": {
+      "added": "63",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "34",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

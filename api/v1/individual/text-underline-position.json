@@ -1,0 +1,36 @@
+{
+  "id": "text-underline-position",
+  "name": "text-underline-position",
+  "description": "The text-underline-position CSS property specifies the position of the underline which is set using the \"text-decoration\" property's underline value.",
+  "syntax": "auto | [ from-font | under ] || [ left | right ]",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor/#text-underline-position-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-underline-position",
+  "support": {
+    "chrome": {
+      "added": "33",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "74",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": "9"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

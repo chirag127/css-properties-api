@@ -1,0 +1,36 @@
+{
+  "id": "resize",
+  "name": "resize",
+  "description": "The resize CSS property sets whether an element is resizable, and if so, in which directions.",
+  "syntax": "none | both | horizontal | vertical | block | inline",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "elements that are scroll containers and optionally replaced elements such as images, videos, and iframes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#resize"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/resize",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

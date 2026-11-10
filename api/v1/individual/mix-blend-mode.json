@@ -1,0 +1,36 @@
+{
+  "id": "mix-blend-mode",
+  "name": "mix-blend-mode",
+  "description": "The mix-blend-mode CSS property sets how an element's content should blend with its backdrop — the content rendered behind the element within the same stacking context.",
+  "syntax": "<blend-mode> | plus-lighter",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements, graphics elements and graphics referencing elements. [SVG11]",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/compositing/#mix-blend-mode"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mix-blend-mode",
+  "support": {
+    "chrome": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "32",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "8",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

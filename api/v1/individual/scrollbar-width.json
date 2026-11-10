@@ -1,0 +1,36 @@
+{
+  "id": "scrollbar-width",
+  "name": "scrollbar-width",
+  "description": "The scrollbar-width property allows the author to set the desired thickness of an element's scrollbars when they are shown.",
+  "syntax": "auto | thin | none",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scrollbars/#scrollbar-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-width",
+  "support": {
+    "chrome": {
+      "added": "121",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "64",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

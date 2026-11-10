@@ -1,0 +1,36 @@
+{
+  "id": "grid-column-start",
+  "name": "grid-column-start",
+  "description": "The grid-column-start CSS property specifies a grid item's start position within the grid column by contributing a line, a span, or nothing (automatic) to its grid placement. This start position defines the block-start edge of the \"grid areas\", \"grid area\".",
+  "syntax": "<grid-line>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "grid items and absolutely-positioned boxes whose containing block is a grid container",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-grid/#line-placement"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-column-start",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

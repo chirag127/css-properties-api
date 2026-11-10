@@ -1,0 +1,36 @@
+{
+  "id": "column-rule",
+  "name": "column-rule",
+  "description": "The column-rule CSS shorthand property sets the width, style, and color of the lines drawn between columns in multi-column grid, flex, and multi-col layouts.",
+  "syntax": "<gap-rule-list> | <gap-auto-rule-list>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol/#column-rule"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": "3.5"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

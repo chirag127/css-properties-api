@@ -1,0 +1,36 @@
+{
+  "id": "text-justify",
+  "name": "text-justify",
+  "description": "The text-justify CSS property sets what type of justification should be applied to text when \"text-align\", \"text-align: justify;\" is set on an element.",
+  "syntax": "[ auto | none | inter-word | inter-character | ruby ] || no-compress",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#text-justify-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-justify",
+  "support": {
+    "chrome": {
+      "added": "145",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "55",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "145",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

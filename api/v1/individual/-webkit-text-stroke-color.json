@@ -1,0 +1,36 @@
+{
+  "id": "-webkit-text-stroke-color",
+  "name": "-webkit-text-stroke-color",
+  "description": "The -webkit-text-stroke-color CSS property specifies the stroke color of characters of text. If this property is not set, the value of the \"color\" property is used.",
+  "syntax": "<color>",
+  "initial": "currentcolor",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://compat.spec.whatwg.org/#the-webkit-text-stroke-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-stroke-color",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

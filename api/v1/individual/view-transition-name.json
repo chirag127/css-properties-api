@@ -1,0 +1,36 @@
+{
+  "id": "view-transition-name",
+  "name": "view-transition-name",
+  "description": "The view-transition-name CSS property specifies the view transition snapshot that selected elements will participate in. This enables you to animate those elements separately from the rest of the page, which uses the default cross-fade animation during a view transition. You can then define custom animation styles for these elements.",
+  "syntax": "none | <custom-ident>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-view-transitions/#view-transition-name-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-transition-name",
+  "support": {
+    "chrome": {
+      "added": "111",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "144",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

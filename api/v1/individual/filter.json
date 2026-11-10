@@ -1,0 +1,36 @@
+{
+  "id": "filter",
+  "name": "filter",
+  "description": "The filter CSS property applies graphical effects like blur or color shift to an element. Filters are commonly used to adjust the rendering of images, backgrounds, and borders.",
+  "syntax": "none | <filter-value-list>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements without the defs element, all graphics elements and the use element.",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/filter-effects/#FilterProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/filter",
+  "support": {
+    "chrome": {
+      "added": "53",
+      "removed": null,
+      "prefixed": "18"
+    },
+    "firefox": {
+      "added": "35",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": "6"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "transition-delay",
+  "name": "transition-delay",
+  "description": "The transition-delay CSS property specifies the duration to wait before starting a property's transition effect when its value changes.",
+  "syntax": "<time>#",
+  "initial": "0s",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transitions/#transition-delay-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition-delay",
+  "support": {
+    "chrome": {
+      "added": "26",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

@@ -1,89 +1,301 @@
 openapi: 3.1.0
 info:
   title: CSS Properties
-  description: CSS properties with syntax, applicable elements, and browser support
+  description: All 652 CSS properties MDN tracks — from `-moz-float-edge` and `align-content` to `zoom` — with a one-paragraph
+    description, the formal syntax parsed from the defining spec, initial value, inheritance and first-support versions for
+    Chrome, Firefox, Safari and Edge.
   version: 1.0.0
   license:
-    name: CC0-1.0
+    name: CC0-1.0 (BCD); CC-BY-SA-2.5 (MDN prose); W3C spec text via webref (MIT)
   contact:
-    name: Oriz Free Public APIs
-    url: https://oriz.in/apis/css-properties
+    name: Chirag Singhal
+    url: https://github.com/chirag127
+    email: chirag@oriz.in
 servers:
-  - url: https://chirag127.github.io/css-properties-api
-    description: GitHub Pages
+- url: https://chirag127.github.io/css-properties-api
+  description: GitHub Pages
 paths:
   /api/v1/data.json:
     get:
-      summary: CSS Properties
-      description: CSS properties with syntax, applicable elements, and browser support
+      summary: All 652 CSS properties
       operationId: listData
       responses:
         '200':
-          description: JSON array
+          description: JSON array of 652 records
           content:
             application/json:
               schema:
                 type: array
                 items:
-                  type: object
-                  properties: {
-                            "id": {
-                                      "type": "string"
-                            },
-                            "name": {
-                                      "type": "string"
-                            },
-                            "status": {
-                                      "type": "string"
-                            },
-                            "source": {
-                                      "type": "string"
-                            }
-                  }
+                  $ref: '#/components/schemas/CssProperty'
   /api/v1/individual/{id}.json:
     get:
-      summary: Get single record
+      summary: One record by id
       operationId: getRecord
       parameters:
-        - name: id
-          in: path
-          required: true
-          schema: { type: string }
+      - name: id
+        in: path
+        required: true
+        schema:
+          type: string
+        description: Record id
       responses:
         '200':
-          description: Record object
+          description: One record
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CssProperty'
+        '404':
+          description: No record with that id
+  /api/v1/search-index.json:
+    get:
+      summary: All records keyed by id
+      operationId: getSearchIndex
+      responses:
+        '200':
+          description: Object with a byId map of every record
           content:
             application/json:
               schema:
                 type: object
-                properties: {
-                            "id": {
-                                      "type": "string"
-                            },
-                            "name": {
-                                      "type": "string"
-                            },
-                            "status": {
-                                      "type": "string"
-                            },
-                            "source": {
-                                      "type": "string"
-                            }
-                  }
-        '404': { description: Not found }
-  /api/v1/search-index.json:
-    get:
-      summary: Search index
-      operationId: getSearchIndex
-      responses:
-        '200': { description: Search index }
+                properties:
+                  byId:
+                    type: object
+                    additionalProperties:
+                      $ref: '#/components/schemas/CssProperty'
+                required:
+                - byId
   /api/v1/meta.json:
     get:
       summary: Dataset metadata
       operationId: getMeta
       responses:
         '200':
-          description: Metadata
+          description: Record count, source URLs, retrieval time
           content:
             application/json:
-              schema: { type: object }
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                  lastUpdated:
+                    type: string
+                  sourceUpdatedAt:
+                    type:
+                    - string
+                    - 'null'
+                  retrievedAt:
+                    type: string
+                  recordCount:
+                    type: integer
+                  version:
+                    type: string
+                  schemaVersion:
+                    type: string
+                  source:
+                    type: string
+                  sourceUrl:
+                    type: string
+                  license:
+                    type: string
+                  updateCadence:
+                    type: string
+                  nextUpdateDue:
+                    type: string
+                  lastFailedAt:
+                    type:
+                    - string
+                    - 'null'
+                  failureReason:
+                    type:
+                    - string
+                    - 'null'
+components:
+  schemas:
+    CssProperty:
+      type: object
+      required:
+      - id
+      - name
+      - description
+      - syntax
+      - initial
+      - inherited
+      - appliesTo
+      - status
+      - specUrl
+      - mdnUrl
+      - support
+      properties:
+        id:
+          type: string
+          description: Property name; the same value as name
+          example: align-content
+        name:
+          type: string
+          description: Property name
+          example: align-content
+        description:
+          type:
+          - string
+          - 'null'
+          description: First paragraph of the MDN page, links stripped, null where no MDN page exists
+          example: The CSS align-content property sets the distribution of space between and around content items along a
+            flexbox's cross axis, or a grid or block-level element's block axis.
+        syntax:
+          type:
+          - string
+          - 'null'
+          description: Formal grammar from the defining CSS specification, parsed by webref
+          example: normal | <baseline-position> | <content-distribution> | <overflow-position>? <content-position>
+        initial:
+          type:
+          - string
+          - 'null'
+          description: Initial value as the specification states it
+          example: normal
+        inherited:
+          type:
+          - string
+          - 'null'
+          description: Whether the property inherits
+          example: 'no'
+        appliesTo:
+          type:
+          - string
+          - 'null'
+          description: Elements the property applies to
+          example: block containers, multicol containers, flex containers, and grid containers
+        status:
+          type: string
+          description: Standardisation status from browser-compat-data
+          example: standard
+          enum:
+          - standard
+          - experimental
+          - nonstandard
+          - deprecated
+          - obsolete
+        specUrl:
+          type: array
+          items:
+            type: string
+          description: Specification anchors that define the property
+        mdnUrl:
+          type:
+          - string
+          - 'null'
+          description: MDN reference page
+          example: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/align-content
+        support:
+          type: object
+          description: Browser support, one entry per engine
+          properties:
+            chrome:
+              type: object
+              description: First version of chrome that shipped the feature
+              required:
+              - added
+              - removed
+              - prefixed
+              properties:
+                added:
+                  type:
+                  - string
+                  - boolean
+                  - 'null'
+                  description: Version string, false when unsupported, null when unrecorded
+                removed:
+                  type:
+                  - string
+                  - 'null'
+                  description: Version that dropped it
+                prefixed:
+                  type:
+                  - string
+                  - 'null'
+                  description: First version behind a vendor prefix, null when never prefixed
+              additionalProperties: false
+            firefox:
+              type: object
+              description: First version of firefox that shipped the feature
+              required:
+              - added
+              - removed
+              - prefixed
+              properties:
+                added:
+                  type:
+                  - string
+                  - boolean
+                  - 'null'
+                  description: Version string, false when unsupported, null when unrecorded
+                removed:
+                  type:
+                  - string
+                  - 'null'
+                  description: Version that dropped it
+                prefixed:
+                  type:
+                  - string
+                  - 'null'
+                  description: First version behind a vendor prefix, null when never prefixed
+              additionalProperties: false
+            safari:
+              type: object
+              description: First version of safari that shipped the feature
+              required:
+              - added
+              - removed
+              - prefixed
+              properties:
+                added:
+                  type:
+                  - string
+                  - boolean
+                  - 'null'
+                  description: Version string, false when unsupported, null when unrecorded
+                removed:
+                  type:
+                  - string
+                  - 'null'
+                  description: Version that dropped it
+                prefixed:
+                  type:
+                  - string
+                  - 'null'
+                  description: First version behind a vendor prefix, null when never prefixed
+              additionalProperties: false
+            edge:
+              type: object
+              description: First version of edge that shipped the feature
+              required:
+              - added
+              - removed
+              - prefixed
+              properties:
+                added:
+                  type:
+                  - string
+                  - boolean
+                  - 'null'
+                  description: Version string, false when unsupported, null when unrecorded
+                removed:
+                  type:
+                  - string
+                  - 'null'
+                  description: Version that dropped it
+                prefixed:
+                  type:
+                  - string
+                  - 'null'
+                  description: First version behind a vendor prefix, null when never prefixed
+              additionalProperties: false
+          required:
+          - chrome
+          - firefox
+          - safari
+          - edge
+      additionalProperties: false

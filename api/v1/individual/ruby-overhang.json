@@ -1,0 +1,36 @@
+{
+  "id": "ruby-overhang",
+  "name": "ruby-overhang",
+  "description": "The ruby-overhang CSS property specifies whether or not a \"ruby\" annotation overhangs any surrounding text.",
+  "syntax": "auto | spaces",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ruby/#propdef-ruby-overhang"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-overhang",
+  "support": {
+    "chrome": {
+      "added": "151",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

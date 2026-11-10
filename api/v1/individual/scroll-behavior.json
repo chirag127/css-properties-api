@@ -1,0 +1,36 @@
+{
+  "id": "scroll-behavior",
+  "name": "scroll-behavior",
+  "description": "The scroll-behavior CSS property sets the behavior for a scrolling box when scrolling is triggered by the navigation or CSSOM scrolling APIs.",
+  "syntax": "auto | smooth",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow/#smooth-scrolling"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-behavior",
+  "support": {
+    "chrome": {
+      "added": "61",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "36",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

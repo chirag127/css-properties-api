@@ -1,0 +1,36 @@
+{
+  "id": "column-fill",
+  "name": "column-fill",
+  "description": "The column-fill CSS property controls how an element's contents are balanced when broken into columns.",
+  "syntax": "auto | balance | balance-all",
+  "initial": "balance",
+  "inherited": "no",
+  "appliesTo": "multicol containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol/#cf"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-fill",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": "17"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "8"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

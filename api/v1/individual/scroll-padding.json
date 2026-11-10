@@ -1,0 +1,36 @@
+{
+  "id": "scroll-padding",
+  "name": "scroll-padding",
+  "description": "The scroll-padding CSS shorthand property sets scroll padding on all sides of an element at once. It specifies offsets that define the optimal viewing region of a scrollport within a \"scroll container\".",
+  "syntax": "[ auto | <length-percentage [0,∞]> ]{1,4}",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#scroll-padding"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-padding",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "68",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

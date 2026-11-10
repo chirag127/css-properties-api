@@ -1,0 +1,36 @@
+{
+  "id": "line-height",
+  "name": "line-height",
+  "description": "The line-height CSS property sets the height of a line box in horizontal writing modes. In vertical writing modes, it sets the width of a line box. It's commonly used to set the distance between lines of text. On block-level elements in horizontal writing modes, it specifies the preferred height of line boxes within the element, and on non-replaced inline elements, it specifies the height that is used to calculate line box height.",
+  "syntax": "normal | <number [0,∞]> | <length-percentage [0,∞]>",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "non-replaced inline boxes and SVG text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#line-height-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-height",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-box-reflect",
+  "name": "-webkit-box-reflect",
+  "description": "The -webkit-box-reflect CSS property lets you reflect the content of an element in one specific direction.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-box-reflect",
+  "support": {
+    "chrome": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

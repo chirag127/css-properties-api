@@ -1,0 +1,36 @@
+{
+  "id": "continue",
+  "name": "continue",
+  "description": null,
+  "syntax": "normal | discard | collapse | -webkit-legacy",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "block containers and multicol containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow-4/#propdef-continue"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

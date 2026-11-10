@@ -1,0 +1,36 @@
+{
+  "id": "lighting-color",
+  "name": "lighting-color",
+  "description": "The lighting-color CSS property defines the color of the light source for the \"feDiffuseLighting\" and \"feSpecularLighting\" SVG lighting filter primitives within an SVG \"filter\". If present, it overrides the element's \"lighting-color\" attribute.",
+  "syntax": "<color>",
+  "initial": "white",
+  "inherited": "no",
+  "appliesTo": "feDiffuseLighting and feSpecularLighting elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/filter-effects/#LightingColorProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/lighting-color",
+  "support": {
+    "chrome": {
+      "added": "5",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

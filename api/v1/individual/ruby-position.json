@@ -1,0 +1,36 @@
+{
+  "id": "ruby-position",
+  "name": "ruby-position",
+  "description": "The ruby-position CSS property defines the position of a ruby element relative to its base element. It can be positioned over the element (over), under it (under), or to the right (inter-character).",
+  "syntax": "[ alternate || [ over | under ] ] | inter-character",
+  "initial": "alternate",
+  "inherited": "yes",
+  "appliesTo": "ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ruby/#rubypos"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-position",
+  "support": {
+    "chrome": {
+      "added": "84",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "38",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "84",
+      "removed": null,
+      "prefixed": "79"
+    }
+  }
+}

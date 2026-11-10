@@ -1,0 +1,36 @@
+{
+  "id": "margin-trim",
+  "name": "margin-trim",
+  "description": "The margin-trim property allows the container to trim the margins of its children where they adjoin the container's edges.",
+  "syntax": "none | block | [ block-start || block-end ]",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "block containers, multi-column containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-box-4/#margin-trim"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/margin-trim",
+  "support": {
+    "chrome": {
+      "added": "155",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

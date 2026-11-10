@@ -1,0 +1,36 @@
+{
+  "id": "clip-path",
+  "name": "clip-path",
+  "description": "The clip-path CSS property creates a clipping region that sets what part of an element should be shown. Parts that are inside the region are shown, while those outside are hidden.",
+  "syntax": "<clip-source> | [ <basic-shape> || <geometry-box> ] | none",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements excluding the defs element, all graphics elements and the use element",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#propdef-clip-path"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip-path",
+  "support": {
+    "chrome": {
+      "added": "55",
+      "removed": null,
+      "prefixed": "23"
+    },
+    "firefox": {
+      "added": "3.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

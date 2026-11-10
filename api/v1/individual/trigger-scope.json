@@ -1,0 +1,36 @@
+{
+  "id": "trigger-scope",
+  "name": "trigger-scope",
+  "description": "The trigger-scope CSS property can be used to limit the scope of a scroll-triggered animation trigger name to a document subtree.",
+  "syntax": "none | all | <dashed-ident>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/animation-triggers-1/#propdef-trigger-scope"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/trigger-scope",
+  "support": {
+    "chrome": {
+      "added": "146",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

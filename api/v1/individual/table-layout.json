@@ -1,0 +1,36 @@
+{
+  "id": "table-layout",
+  "name": "table-layout",
+  "description": "The table-layout CSS property sets the algorithm used to lay out \"table\" cells, rows, and columns.",
+  "syntax": "auto | fixed",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "table grid boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css2/#width-layout"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/table-layout",
+  "support": {
+    "chrome": {
+      "added": "14",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

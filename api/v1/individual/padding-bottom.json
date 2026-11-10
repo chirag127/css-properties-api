@@ -1,0 +1,36 @@
+{
+  "id": "padding-bottom",
+  "name": "padding-bottom",
+  "description": "The padding-bottom CSS property sets the height of the padding area on the bottom of an element.",
+  "syntax": "<length-percentage [0,∞]>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements except: internal table elements other than table cells, ruby base containers, and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-box/#padding-physical"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-bottom",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

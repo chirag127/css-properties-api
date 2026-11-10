@@ -1,0 +1,37 @@
+{
+  "id": "grid-template-columns",
+  "name": "grid-template-columns",
+  "description": "The grid-template-columns CSS property defines the line names and track sizing functions of the \"grid column\", \"grid columns\".",
+  "syntax": "none | <track-list> | <auto-track-list> | subgrid <line-name-list>?",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "grid containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-grid/#track-sizing",
+    "https://drafts.csswg.org/css-grid/#subgrids"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-template-columns",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

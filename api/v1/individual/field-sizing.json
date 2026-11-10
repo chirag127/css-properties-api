@@ -1,0 +1,36 @@
+{
+  "id": "field-sizing",
+  "name": "field-sizing",
+  "description": "The field-sizing CSS property enables you to control the sizing behavior of elements that are given a default preferred size, such as form control elements. This property enables you to override the default sizing behavior, allowing form controls to adjust in size to fit their contents.",
+  "syntax": "fixed | content",
+  "initial": "fixed",
+  "inherited": "no",
+  "appliesTo": "elements with default preferred size",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-forms-1/#propdef-field-sizing"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing",
+  "support": {
+    "chrome": {
+      "added": "123",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "152",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

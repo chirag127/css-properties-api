@@ -1,0 +1,36 @@
+{
+  "id": "text-wrap-mode",
+  "name": "text-wrap-mode",
+  "description": "The text-wrap-mode CSS property controls whether the text inside an element is wrapped.",
+  "syntax": "wrap | nowrap",
+  "initial": "wrap",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#text-wrap-mode"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap-mode",
+  "support": {
+    "chrome": {
+      "added": "130",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "124",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

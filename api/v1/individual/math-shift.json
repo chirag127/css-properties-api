@@ -1,0 +1,36 @@
+{
+  "id": "math-shift",
+  "name": "math-shift",
+  "description": "The math-shift property indicates whether superscripts inside MathML formulas should be raised by a normal or compact shift.",
+  "syntax": "normal | compact",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "All elements",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/mathml-core/#the-math-shift"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-shift",
+  "support": {
+    "chrome": {
+      "added": "109",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "146",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

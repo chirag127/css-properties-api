@@ -1,0 +1,36 @@
+{
+  "id": "rule-inset-end",
+  "name": "rule-inset-end",
+  "description": null,
+  "syntax": "<'column-rule-inset-end'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-inset-end and row-rule-inset-end",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-end"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

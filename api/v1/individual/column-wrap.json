@@ -1,0 +1,36 @@
+{
+  "id": "column-wrap",
+  "name": "column-wrap",
+  "description": "The column-wrap CSS property specifies the wrapping behavior of overflow columns in a CSS multi-column layout.",
+  "syntax": "auto | nowrap | wrap",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "multicol containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol-2/#propdef-column-wrap"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-wrap",
+  "support": {
+    "chrome": {
+      "added": "145",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "object-fit",
+  "name": "object-fit",
+  "description": "The object-fit CSS property sets how the content of a \"replaced elements\", \"replaced element\", such as an \"img\" or \"video\", should be resized to fit its container.",
+  "syntax": "fill | none | [contain | cover] || scale-down",
+  "initial": "fill",
+  "inherited": "no",
+  "appliesTo": "replaced elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-images/#the-object-fit"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/object-fit",
+  "support": {
+    "chrome": {
+      "added": "32",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "36",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "page-break-before",
+  "name": "page-break-before",
+  "description": "> [!WARNING] > This property has been replaced by the \"break-before\" property.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "deprecated",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#page",
+    "https://drafts.csswg.org/css-break/#page-break-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page-break-before",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

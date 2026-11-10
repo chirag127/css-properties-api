@@ -1,0 +1,37 @@
+{
+  "id": "max-inline-size",
+  "name": "max-inline-size",
+  "description": "The max-inline-size CSS property defines the horizontal or vertical maximum size of an element's block, depending on its writing mode. It corresponds to either the \"max-width\" or the \"max-height\" property, depending on the value of \"writing-mode\".",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-max-inline-size",
+    "https://drafts.csswg.org/css-sizing/#sizing-values"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/max-inline-size",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": "10.1"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

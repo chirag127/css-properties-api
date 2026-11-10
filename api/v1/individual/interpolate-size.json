@@ -1,0 +1,36 @@
+{
+  "id": "interpolate-size",
+  "name": "interpolate-size",
+  "description": "The interpolate-size CSS property allows you to enable animations and transitions between a \"&lt;length-percentage&gt;\" value and an \"intrinsic size\", \"fit-content\", or \"max-content\".",
+  "syntax": "numeric-only | allow-keywords",
+  "initial": "numeric-only",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing-4/#propdef-interpolate-size"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/interpolate-size",
+  "support": {
+    "chrome": {
+      "added": "129",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

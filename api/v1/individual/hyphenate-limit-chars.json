@@ -1,0 +1,36 @@
+{
+  "id": "hyphenate-limit-chars",
+  "name": "hyphenate-limit-chars",
+  "description": "The hyphenate-limit-chars CSS property specifies the minimum word length to allow hyphenation of words as well as the minimum number of characters before and after the hyphen.",
+  "syntax": "[ auto | <integer [0,∞]> ]{1,3}",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#propdef-hyphenate-limit-chars"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hyphenate-limit-chars",
+  "support": {
+    "chrome": {
+      "added": "109",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "137",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

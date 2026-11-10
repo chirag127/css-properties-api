@@ -1,0 +1,36 @@
+{
+  "id": "border-spacing",
+  "name": "border-spacing",
+  "description": "The border-spacing CSS property sets the distance between the borders of adjacent cells in a \"table\". This property applies only when \"border-collapse\" is separate.",
+  "syntax": "<length [0,∞]>{1,2}",
+  "initial": "0px 0px",
+  "inherited": "yes",
+  "appliesTo": "table grid boxes when border-collapse is separate",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css2/#separated-borders"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-spacing",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

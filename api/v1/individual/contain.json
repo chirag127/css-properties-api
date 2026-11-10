@@ -1,0 +1,36 @@
+{
+  "id": "contain",
+  "name": "contain",
+  "description": "The contain CSS property indicates that an element and its contents are, as much as possible, independent from the rest of the document tree. Containment enables isolating a subsection of the DOM, providing performance benefits by limiting calculations of layout, style, paint, size, or any combination to a DOM subtree rather than the entire page. Containment can also be used to scope CSS counters and quotes.",
+  "syntax": "none | strict | content | [ [size | inline-size] || layout || style || paint ]",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "See below",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-contain/#contain-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain",
+  "support": {
+    "chrome": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

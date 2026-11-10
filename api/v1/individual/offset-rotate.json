@@ -1,0 +1,36 @@
+{
+  "id": "offset-rotate",
+  "name": "offset-rotate",
+  "description": "The offset-rotate CSS property defines the orientation/direction of the element as it is positioned along the \"offset-path\".",
+  "syntax": "[ auto | reverse ] || <angle>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/motion/#offset-rotate-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/offset-rotate",
+  "support": {
+    "chrome": {
+      "added": "56",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "72",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "vector-effect",
+  "name": "vector-effect",
+  "description": "The vector-effect CSS property suppresses specific transformation effects in SVG, thus permitting effects like a road on a map staying the same width no matter how the map is zoomed, or allowing a diagram key to retain its position and size regardless of other transforms. It can only be used with SVG elements that accept the \"vector-effect\" attribute. When used, the CSS value overrides any values of the element's vector-effect attribute.",
+  "syntax": "none | non-scaling-stroke | non-scaling-size | non-rotation | fixed-position",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "graphics elements and ‘use’",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/coords.html#VectorEffectProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/vector-effect",
+  "support": {
+    "chrome": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "5.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

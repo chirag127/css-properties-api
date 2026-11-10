@@ -1,0 +1,36 @@
+{
+  "id": "clip-rule",
+  "name": "clip-rule",
+  "description": "The clip-rule CSS property determines, when parts of the path overlap other parts, which pixels in a mask's box are inside the clipping shape defined by a clip path and which are outside.",
+  "syntax": "nonzero | evenodd",
+  "initial": "nonzero",
+  "inherited": "yes",
+  "appliesTo": "Applies to SVG graphics elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-clip-rule"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip-rule",
+  "support": {
+    "chrome": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "≤5",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

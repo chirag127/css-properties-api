@@ -1,0 +1,36 @@
+{
+  "id": "overscroll-behavior-x",
+  "name": "overscroll-behavior-x",
+  "description": "The overscroll-behavior-x CSS property sets the browser's behavior when the horizontal boundary of a scrolling area is reached.",
+  "syntax": "contain | none | auto | chain",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll container elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overscroll/#overscroll-behavior-longhands-physical"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior-x",
+  "support": {
+    "chrome": {
+      "added": "144",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "150",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

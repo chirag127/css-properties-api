@@ -1,0 +1,36 @@
+{
+  "id": "text-fit",
+  "name": "text-fit",
+  "description": "The text-fit CSS property can be used to scale the rendered font size of text nodes (and other inline content) so that they fit exactly within the inline dimension of their containing boxes, optionally limited by a maximum or minimum scaling factor.",
+  "syntax": "[ none | grow | shrink ] [consistent | per-line | per-line-all]? <percentage>?",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "block containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-5/#text-fit-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-fit",
+  "support": {
+    "chrome": {
+      "added": "150",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

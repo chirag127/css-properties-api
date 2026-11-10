@@ -1,0 +1,36 @@
+{
+  "id": "-webkit-mask-composite",
+  "name": "-webkit-mask-composite",
+  "description": "The -webkit-mask-composite property specifies the manner in which multiple mask images applied to the same element are composited with one another. Mask images are composited in the opposite order that they are declared with the \"mask-image\", \"-webkit-mask-image\" property.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [
+    "https://compat.spec.whatwg.org/#propdef--webkit-mask-composite"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-mask-composite",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "18",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

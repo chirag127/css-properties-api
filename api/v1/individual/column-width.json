@@ -1,0 +1,36 @@
+{
+  "id": "column-width",
+  "name": "column-width",
+  "description": "The column-width CSS property sets the ideal column width in a multi-column layout.",
+  "syntax": "auto | <length [0,∞]>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "block containers except table wrapper boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol-2/#propdef-column-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-width",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1.5"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

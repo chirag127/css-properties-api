@@ -1,0 +1,36 @@
+{
+  "id": "padding-block",
+  "name": "padding-block",
+  "description": "The padding-block CSS shorthand property defines the logical block start and end padding of an element, which maps to physical padding properties depending on the element's writing mode, directionality, and text orientation.",
+  "syntax": "<'padding-top'>{1,2}",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-padding-block"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-block",
+  "support": {
+    "chrome": {
+      "added": "87",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "66",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mask-mode",
+  "name": "mask-mode",
+  "description": "The mask-mode CSS property is set on the element being masked. It sets whether the mask reference defined by the \"mask-image\" is treated as a luminance or alpha mask.",
+  "syntax": "<masking-mode>#",
+  "initial": "match-source",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements excluding the defs element, all graphics elements and the use element",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-mask-mode"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-mode",
+  "support": {
+    "chrome": {
+      "added": "120",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "53",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

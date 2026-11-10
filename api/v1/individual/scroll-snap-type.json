@@ -1,0 +1,36 @@
+{
+  "id": "scroll-snap-type",
+  "name": "scroll-snap-type",
+  "description": "The scroll-snap-type CSS property is set on a \"scroll container\", opting it into scroll snapping by setting the direction and strictness of snap point enforcement within the snap port.",
+  "syntax": "none | [ x | y | block | inline | both | pair ] [ mandatory | proximity ]?",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#scroll-snap-type"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-snap-type",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "99",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": "9"
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

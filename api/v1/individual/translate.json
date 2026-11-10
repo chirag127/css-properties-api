@@ -1,0 +1,36 @@
+{
+  "id": "translate",
+  "name": "translate",
+  "description": "The translate CSS property allows you to specify translation transforms individually and independently of the \"transform\" property. This maps better to typical user interface usage, and saves having to remember the exact order of transform functions to specify in the transform value.",
+  "syntax": "none | <length-percentage> [ <length-percentage> <length>? ]?",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transforms-2/#individual-transforms"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/translate",
+  "support": {
+    "chrome": {
+      "added": "104",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "72",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

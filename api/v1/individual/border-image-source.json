@@ -1,0 +1,36 @@
+{
+  "id": "border-image-source",
+  "name": "border-image-source",
+  "description": "The border-image-source CSS property sets the source image used to create an element's border image.",
+  "syntax": "none | <image>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "All elements, except internal table elements when border-collapse is collapse",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#border-image-source"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-image-source",
+  "support": {
+    "chrome": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "scroll-snap-stop",
+  "name": "scroll-snap-stop",
+  "description": "The scroll-snap-stop CSS property defines whether or not the scroll container is allowed to \"pass over\" possible snap positions.",
+  "syntax": "normal | always",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#scroll-snap-stop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-snap-stop",
+  "support": {
+    "chrome": {
+      "added": "75",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "103",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

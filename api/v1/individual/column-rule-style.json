@@ -1,0 +1,36 @@
+{
+  "id": "column-rule-style",
+  "name": "column-rule-style",
+  "description": "The column-rule-style CSS property defines the line style of the lines drawn between columns in multi-column grid, flex, and multi-col layouts.",
+  "syntax": "<line-style-list> | <auto-line-style-list>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol/#crs"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-style",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": "3.5"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

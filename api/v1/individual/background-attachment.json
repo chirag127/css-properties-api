@@ -1,0 +1,36 @@
+{
+  "id": "background-attachment",
+  "name": "background-attachment",
+  "description": "The background-attachment CSS property sets whether a background image's position is fixed within the \"viewport\", or scrolls with its containing block.",
+  "syntax": "<attachment>#",
+  "initial": "scroll",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#background-attachment"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-attachment",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

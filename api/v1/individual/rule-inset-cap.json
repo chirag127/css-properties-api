@@ -1,0 +1,36 @@
+{
+  "id": "rule-inset-cap",
+  "name": "rule-inset-cap",
+  "description": "The rule-inset-cap CSS shorthand property can be used to offset the column and row rule segment cap endpoints to the same value.",
+  "syntax": "<'column-rule-inset-cap'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-inset-cap and row-rule-inset-cap",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-inset-cap"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rule-inset-cap",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

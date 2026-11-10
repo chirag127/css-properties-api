@@ -1,0 +1,36 @@
+{
+  "id": "stroke-color",
+  "name": "stroke-color",
+  "description": null,
+  "syntax": "<color>#",
+  "initial": "transparent",
+  "inherited": "yes",
+  "appliesTo": "text and SVG shapes",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/fill-stroke-3/#stroke-color"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

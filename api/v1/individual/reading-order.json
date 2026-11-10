@@ -1,0 +1,36 @@
+{
+  "id": "reading-order",
+  "name": "reading-order",
+  "description": "The reading-order CSS property enables changing the order in which a child of a reading flow container is read relative to its element siblings.",
+  "syntax": "<integer>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "Direct block-level, grid item, or flex item children of a reading flow container.",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-display-4/#propdef-reading-order"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/reading-order",
+  "support": {
+    "chrome": {
+      "added": "137",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

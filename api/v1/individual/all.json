@@ -1,0 +1,36 @@
+{
+  "id": "all",
+  "name": "all",
+  "description": "The all CSS shorthand property resets all of an element's properties except \"unicode-bidi\", \"direction\", and CSS Custom Properties. It can set properties to their initial or inherited values, or to the values specified in another cascade layer or stylesheet origin.",
+  "syntax": "initial | inherit | unset | revert | revert-layer | revert-rule",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-cascade/#all-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/all",
+  "support": {
+    "chrome": {
+      "added": "37",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "27",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

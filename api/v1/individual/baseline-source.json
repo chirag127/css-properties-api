@@ -1,0 +1,36 @@
+{
+  "id": "baseline-source",
+  "name": "baseline-source",
+  "description": "The baseline-source CSS property defines which baseline to use when inline-level boxes have multiple possible baselines, such as multi-line inline blocks or inline flex containers. The values allow for choosing between aligning to the box's first baseline, last baseline, or letting the browser decide automatically based on the box type.",
+  "syntax": "auto | first | last",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "inline-level boxes that establish an independent formatting context",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#baseline-source"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-source",
+  "support": {
+    "chrome": {
+      "added": "111",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

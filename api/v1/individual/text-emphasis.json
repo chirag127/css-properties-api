@@ -1,0 +1,36 @@
+{
+  "id": "text-emphasis",
+  "name": "text-emphasis",
+  "description": "The text-emphasis CSS shorthand property applies emphasis marks to text (except spaces and control characters).",
+  "syntax": "<'text-emphasis-style'> || <'text-emphasis-color'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor/#text-emphasis-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-emphasis",
+  "support": {
+    "chrome": {
+      "added": "99",
+      "removed": null,
+      "prefixed": "25"
+    },
+    "firefox": {
+      "added": "46",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

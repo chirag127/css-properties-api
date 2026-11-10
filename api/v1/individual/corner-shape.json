@@ -1,0 +1,36 @@
+{
+  "id": "corner-shape",
+  "name": "corner-shape",
+  "description": "The corner-shape CSS shorthand property specifies the shape of a box's corners, within the area specified by its \"border-radius\" property value.",
+  "syntax": "<'corner-top-left-shape'>{1,4}",
+  "initial": "round",
+  "inherited": "no",
+  "appliesTo": "all elements where border-radius can apply",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-borders/#propdef-corner-shape"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/corner-shape",
+  "support": {
+    "chrome": {
+      "added": "139",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

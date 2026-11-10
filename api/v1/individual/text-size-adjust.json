@@ -1,0 +1,36 @@
+{
+  "id": "text-size-adjust",
+  "name": "text-size-adjust",
+  "description": "The text-size-adjust CSS property controls the text inflation algorithm used on some smartphones and tablets. Other browsers will ignore this property.",
+  "syntax": "auto | none | <percentage [0,∞]>",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-size-adjust/#adjustment-control"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-size-adjust",
+  "support": {
+    "chrome": {
+      "added": "54",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

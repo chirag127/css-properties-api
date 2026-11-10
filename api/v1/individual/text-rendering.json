@@ -1,0 +1,36 @@
+{
+  "id": "text-rendering",
+  "name": "text-rendering",
+  "description": "The text-rendering CSS property provides information to the rendering engine about what to optimize for when rendering text.",
+  "syntax": "auto | optimizeSpeed | optimizeLegibility | geometricPrecision",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "‘text’",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#TextRenderingProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-rendering",
+  "support": {
+    "chrome": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "5",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

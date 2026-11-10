@@ -1,0 +1,36 @@
+{
+  "id": "text-box-edge",
+  "name": "text-box-edge",
+  "description": "The text-box-edge CSS property specifies an amount of space to trim from a text element's block container.",
+  "syntax": "auto | <text-edge>",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "block containers and inline boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline-3/#text-box-edge"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge",
+  "support": {
+    "chrome": {
+      "added": "133",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "154",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

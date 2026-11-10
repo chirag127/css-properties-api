@@ -1,0 +1,36 @@
+{
+  "id": "mask-border-source",
+  "name": "mask-border-source",
+  "description": "The mask-border-source CSS property sets the source image used to create an element's mask border.",
+  "syntax": "<'border-image-source'>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements excluding the defs element, all graphics elements and the use element",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-mask-border-source"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-border-source",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

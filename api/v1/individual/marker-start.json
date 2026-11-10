@@ -1,0 +1,36 @@
+{
+  "id": "marker-start",
+  "name": "marker-start",
+  "description": "The marker-start CSS property points to a marker that will be drawn on the first vertex of the element's path; that is, at its starting vertex. The marker must have been defined using an SVG 'marker' element, and can only be referenced with a \"urlvalue\", \"&lt;url&gt;\" value. The value of the CSS property overrides any values of the marker-start attribute in the SVG.",
+  "syntax": "none | <marker-ref>",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "shapes",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#MarkerStartProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/marker-start",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

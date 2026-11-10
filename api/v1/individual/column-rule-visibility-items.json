@@ -1,0 +1,36 @@
+{
+  "id": "column-rule-visibility-items",
+  "name": "column-rule-visibility-items",
+  "description": "The column-rule-visibility-items CSS property defines whether a column-rule segment is painted in gaps adjacent to empty areas.",
+  "syntax": "all | around | between | normal",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "grid containers and multicol containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-visibility-items"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-visibility-items",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

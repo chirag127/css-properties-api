@@ -1,0 +1,36 @@
+{
+  "id": "border-collapse",
+  "name": "border-collapse",
+  "description": "The border-collapse CSS property sets whether cells inside a \"table\" have shared or separate borders.",
+  "syntax": "separate | collapse",
+  "initial": "separate",
+  "inherited": "yes",
+  "appliesTo": "table grid boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css2/#propdef-border-collapse"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-collapse",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

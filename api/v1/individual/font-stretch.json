@@ -1,0 +1,36 @@
+{
+  "id": "font-stretch",
+  "name": "font-stretch",
+  "description": "> [!NOTE] > The font-stretch property was renamed to \"font-width\" in the CSS Fonts specification. To preserve compatibility, the specification retains font-stretch as a legacy alias for the font-width property.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-stretch-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-stretch",
+  "support": {
+    "chrome": {
+      "added": "60",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "9",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

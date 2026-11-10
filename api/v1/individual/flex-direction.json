@@ -1,0 +1,36 @@
+{
+  "id": "flex-direction",
+  "name": "flex-direction",
+  "description": "The flex-direction CSS property sets how flex items are placed in the flex container defining the main axis and the direction (normal or reversed).",
+  "syntax": "row | row-reverse | column | column-reverse",
+  "initial": "row",
+  "inherited": "no",
+  "appliesTo": "flex containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox/#flex-direction-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex-direction",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "22",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

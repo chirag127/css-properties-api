@@ -1,0 +1,36 @@
+{
+  "id": "user-select",
+  "name": "user-select",
+  "description": "The user-select CSS property controls whether the user can select text. This doesn't have any effect on content loaded as part of a browser's user interface (its \"Chrome\", \"chrome\"), except in textboxes.",
+  "syntax": "auto | text | none | contain | all",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements, and optionally to the ::before and ::after pseudo-elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#content-selection"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/user-select",
+  "support": {
+    "chrome": {
+      "added": "54",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

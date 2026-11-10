@@ -1,0 +1,36 @@
+{
+  "id": "border-inline-start-color",
+  "name": "border-inline-start-color",
+  "description": "The border-inline-start-color CSS property defines the color of the logical inline start border of an element, which maps to a physical border color depending on the element's writing mode, directionality, and text orientation. It corresponds to the \"border-top-color\", \"border-right-color\", \"border-bottom-color\", or \"border-left-color\" property depending on the values defined for \"writing-mode\", \"direction\", and \"text-orientation\".",
+  "syntax": "<color> | <image-1D>",
+  "initial": "currentcolor",
+  "inherited": "no",
+  "appliesTo": "all elements except ruby base containers and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#border-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-inline-start-color",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

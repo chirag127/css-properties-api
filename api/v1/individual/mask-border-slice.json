@@ -1,0 +1,36 @@
+{
+  "id": "mask-border-slice",
+  "name": "mask-border-slice",
+  "description": "The mask-border-slice CSS property divides the image set by \"mask-border-source\" into regions. These regions are used to form the components of an element's mask border.",
+  "syntax": "<'border-image-slice'>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "All elements. In SVG, it applies to container elements excluding the defs element, all graphics elements and the use element",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-masking/#the-mask-border-slice"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-border-slice",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

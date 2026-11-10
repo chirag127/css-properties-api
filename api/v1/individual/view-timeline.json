@@ -1,0 +1,36 @@
+{
+  "id": "view-timeline",
+  "name": "view-timeline",
+  "description": "The view-timeline CSS shorthand property defines a named view progress timeline's name, direction, and inset values.",
+  "syntax": "[ <'view-timeline-name'> [ <'view-timeline-axis'> || <'view-timeline-inset'> ]? ]#",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/scroll-animations/#view-timeline-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline",
+  "support": {
+    "chrome": {
+      "added": "115",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "159",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

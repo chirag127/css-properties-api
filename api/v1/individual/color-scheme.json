@@ -1,0 +1,36 @@
+{
+  "id": "color-scheme",
+  "name": "color-scheme",
+  "description": "The color-scheme CSS property allows an element to indicate which color schemes it can comfortably be rendered in. User agents change the following aspects of the UI chrome to match the used color scheme:",
+  "syntax": "normal | [ light | dark | <custom-ident> ]+ && only?",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-color-adjust/#color-scheme-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color-scheme",
+  "support": {
+    "chrome": {
+      "added": "81",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "96",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "13",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

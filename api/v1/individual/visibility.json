@@ -1,0 +1,37 @@
+{
+  "id": "visibility",
+  "name": "visibility",
+  "description": "The visibility CSS property shows or hides an element without changing the layout of a document. The property can also hide rows or columns in a \"table\".",
+  "syntax": "visible | hidden | force-hidden | collapse",
+  "initial": "visible",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-display/#visibility",
+    "https://w3c.github.io/svgwg/svg2-draft/render.html#VisibilityControl"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/visibility",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

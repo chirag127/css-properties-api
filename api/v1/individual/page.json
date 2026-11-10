@@ -1,0 +1,36 @@
+{
+  "id": "page",
+  "name": "page",
+  "description": "The page CSS property is used to specify the named page, a specific type of page defined by the \"@page\" at-rule.",
+  "syntax": "auto | <custom-ident>",
+  "initial": "auto",
+  "inherited": "no (but see prose)",
+  "appliesTo": "boxes that create class A break points",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-page/#propdef-page"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page",
+  "support": {
+    "chrome": {
+      "added": "85",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "110",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "scroll-snap-align",
+  "name": "scroll-snap-align",
+  "description": "The scroll-snap-align CSS property specifies the box's snap position as an alignment of its snap area.",
+  "syntax": "[ none | start | end | center ]{1,2}",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#scroll-snap-align"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-snap-align",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "68",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

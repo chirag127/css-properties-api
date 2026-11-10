@@ -1,0 +1,36 @@
+{
+  "id": "block-size",
+  "name": "block-size",
+  "description": "The block-size CSS property defines the size of an element's block along the block axis. If the \"writing-mode\" is horizontal, it corresponds to the \"height\"; if the writing mode is vertical, it corresponds to the \"width\". A related property is \"inline-size\", which defines the other dimension of the element.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-block-size"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/block-size",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

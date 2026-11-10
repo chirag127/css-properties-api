@@ -1,0 +1,34 @@
+{
+  "id": "box-flex-group",
+  "name": "box-flex-group",
+  "description": "> [!WARNING] > This is a property of the original CSS flexible box layout Module draft. It has been replaced in the specification. See flexbox for information about the current standard.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "deprecated",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-flex-group",
+  "support": {
+    "chrome": {
+      "added": null,
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": null,
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

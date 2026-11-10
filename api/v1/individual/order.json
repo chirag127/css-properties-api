@@ -1,0 +1,36 @@
+{
+  "id": "order",
+  "name": "order",
+  "description": "The order CSS property sets the order to lay out an item in a flex or grid container. Items in a container are sorted by ascending order value and then by their source code order. Items not given an explicit order value are assigned the default value of 0.",
+  "syntax": "<integer>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "flex items and grid items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-display/#order-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/order",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "21"
+    },
+    "firefox": {
+      "added": "20",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

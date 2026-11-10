@@ -1,0 +1,36 @@
+{
+  "id": "text-decoration-skip-ink",
+  "name": "text-decoration-skip-ink",
+  "description": "The text-decoration-skip-ink CSS property specifies how overlines and underlines are drawn when they pass over glyph ascenders and descenders.",
+  "syntax": "auto | none | all",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#text-decoration-skip-ink-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration-skip-ink",
+  "support": {
+    "chrome": {
+      "added": "64",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "70",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

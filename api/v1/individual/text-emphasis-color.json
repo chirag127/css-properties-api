@@ -1,0 +1,36 @@
+{
+  "id": "text-emphasis-color",
+  "name": "text-emphasis-color",
+  "description": "The text-emphasis-color CSS property sets the color of emphasis marks. This value can also be set using the \"text-emphasis\" shorthand.",
+  "syntax": "<color>",
+  "initial": "currentcolor",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor/#text-emphasis-color-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-emphasis-color",
+  "support": {
+    "chrome": {
+      "added": "99",
+      "removed": null,
+      "prefixed": "25"
+    },
+    "firefox": {
+      "added": "46",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

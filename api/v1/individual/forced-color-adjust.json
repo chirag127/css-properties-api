@@ -1,0 +1,36 @@
+{
+  "id": "forced-color-adjust",
+  "name": "forced-color-adjust",
+  "description": "The forced-color-adjust CSS property allows authors to opt certain elements out of forced colors mode. This then restores the control of those values to CSS.",
+  "syntax": "auto | none | preserve-parent-color",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-color-adjust/#forced-color-adjust-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/forced-color-adjust",
+  "support": {
+    "chrome": {
+      "added": "89",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "113",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "79",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

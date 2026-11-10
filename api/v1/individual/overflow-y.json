@@ -1,0 +1,36 @@
+{
+  "id": "overflow-y",
+  "name": "overflow-y",
+  "description": "The overflow-y CSS property sets what shows when content overflows a block-level element's top and bottom edges. This may be nothing, a scroll bar, or the overflow content. This property may also be set by using the \"overflow\" shorthand property.",
+  "syntax": "visible | hidden | clip | scroll | auto",
+  "initial": "visible",
+  "inherited": "no",
+  "appliesTo": "block containers [CSS2], flex containers [CSS-FLEXBOX-1], grid containers [CSS-GRID-1], and table grid boxes [CSS-TABLES-3]",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow/#overflow-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-y",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "scrollbar-gutter",
+  "name": "scrollbar-gutter",
+  "description": "The scrollbar-gutter CSS property allows authors to reserve space for the scrollbar, preventing unwanted layout changes as the content grows while also avoiding unnecessary visuals when scrolling isn't needed.",
+  "syntax": "auto | stable && both-edges?",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow/#scrollbar-gutter-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-gutter",
+  "support": {
+    "chrome": {
+      "added": "94",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "97",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

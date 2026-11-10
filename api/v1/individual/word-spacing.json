@@ -1,0 +1,37 @@
+{
+  "id": "word-spacing",
+  "name": "word-spacing",
+  "description": "The word-spacing CSS property sets the spacing between words and between tags.",
+  "syntax": "normal | <length-percentage>",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#word-spacing-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#WordSpacingProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/word-spacing",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

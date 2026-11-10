@@ -1,0 +1,36 @@
+{
+  "id": "text-emphasis-position",
+  "name": "text-emphasis-position",
+  "description": "The text-emphasis-position CSS property sets where emphasis marks are drawn. Similar to the text rendered by the HTML element, if there isn't enough room for emphasis marks, the line height is increased.",
+  "syntax": "[ over | under ] && [ right | left ]?",
+  "initial": "over right",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor/#text-emphasis-position-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-emphasis-position",
+  "support": {
+    "chrome": {
+      "added": "99",
+      "removed": null,
+      "prefixed": "25"
+    },
+    "firefox": {
+      "added": "46",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

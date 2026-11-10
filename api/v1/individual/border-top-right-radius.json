@@ -1,0 +1,36 @@
+{
+  "id": "border-top-right-radius",
+  "name": "border-top-right-radius",
+  "description": "The border-top-right-radius CSS property rounds the top-right corner of an element by specifying the radius (or the radius of the semi-major and semi-minor axes) of the ellipse defining the curvature of the corner.",
+  "syntax": "<length-percentage [0,∞]>{1,2}",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements (but see prose)",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#propdef-border-top-right-radius"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-top-right-radius",
+  "support": {
+    "chrome": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "5",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

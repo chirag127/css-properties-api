@@ -1,0 +1,36 @@
+{
+  "id": "column-rule-inset-junction-end",
+  "name": "column-rule-inset-junction-end",
+  "description": "The column-rule-inset-junction-end CSS property can be used to offset the bottom endpoints of column rule segments that are junction endpoints; that is, endpoints at gap junctions where rule segments intersect.",
+  "syntax": "<inset-value>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-column-rule-inset-junction-end"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-rule-inset-junction-end",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

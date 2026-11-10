@@ -1,0 +1,36 @@
+{
+  "id": "column-height",
+  "name": "column-height",
+  "description": "The column-height CSS property specifies the height of the columns in a CSS multi-column layout.",
+  "syntax": "auto | <length [0,∞]>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "block containers except table wrapper boxes",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol-2/#propdef-column-height"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-height",
+  "support": {
+    "chrome": {
+      "added": "145",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

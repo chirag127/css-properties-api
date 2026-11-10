@@ -1,0 +1,37 @@
+{
+  "id": "inset-block",
+  "name": "inset-block",
+  "description": "The inset-block CSS shorthand property defines the logical block start and end offsets of an element, which maps to physical offsets depending on the element's writing mode, directionality, and text orientation. It corresponds to the \"top\" and \"bottom\", or \"right\" and \"left\" properties depending on the values defined for \"writing-mode\", \"direction\", and \"text-orientation\".",
+  "syntax": "<'top'>{1,2}",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-inset-block",
+    "https://drafts.csswg.org/css-position/#propdef-inset-block"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/inset-block",
+  "support": {
+    "chrome": {
+      "added": "87",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "63",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "speak",
+  "name": "speak",
+  "description": null,
+  "syntax": "auto | never | always",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-speech-1/#speaking-props-speak"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "≤80",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

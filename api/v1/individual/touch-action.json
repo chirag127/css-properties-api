@@ -1,0 +1,37 @@
+{
+  "id": "touch-action",
+  "name": "touch-action",
+  "description": "The touch-action CSS property sets how an element's region can be manipulated by a touchscreen user (for example, by zooming features built into the browser).",
+  "syntax": "auto | none | [ [ pan-x | pan-left | pan-right ] || [ pan-y | pan-up | pan-down ] || pinch-zoom ] | manipulation",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements except: non-replaced inline elements, table rows, row groups, table columns, and column groups.",
+  "status": "standard",
+  "specUrl": [
+    "https://compat.spec.whatwg.org/#touch-action",
+    "https://w3c.github.io/pointerevents/#the-touch-action-css-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/touch-action",
+  "support": {
+    "chrome": {
+      "added": "36",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "13",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

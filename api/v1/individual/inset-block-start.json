@@ -1,0 +1,37 @@
+{
+  "id": "inset-block-start",
+  "name": "inset-block-start",
+  "description": "The inset-block-start CSS property defines the logical block start offset of an element, which maps to a physical inset depending on the element's writing mode, directionality, and text orientation. It corresponds to the \"top\", \"right\", \"bottom\", or \"left\" property depending on the values defined for \"writing-mode\", \"direction\", and \"text-orientation\".",
+  "syntax": "<'top'>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "positioned elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-inset-block-start",
+    "https://drafts.csswg.org/css-position/#propdef-inset-block-start"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/inset-block-start",
+  "support": {
+    "chrome": {
+      "added": "87",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "63",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

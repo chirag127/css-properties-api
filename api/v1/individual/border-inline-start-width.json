@@ -1,0 +1,36 @@
+{
+  "id": "border-inline-start-width",
+  "name": "border-inline-start-width",
+  "description": "The border-inline-start-width CSS property defines the width of the logical inline-start border of an element, which maps to a physical border width depending on the element's writing mode, directionality, and text orientation. It corresponds to the \"border-top-width\", \"border-right-width\", \"border-bottom-width\", or \"border-left-width\" property depending on the values defined for \"writing-mode\", \"direction\", and \"text-orientation\".",
+  "syntax": "<line-width>",
+  "initial": "medium",
+  "inherited": "no",
+  "appliesTo": "all elements except ruby base containers and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#border-width"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-inline-start-width",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

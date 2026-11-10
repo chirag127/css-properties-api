@@ -1,0 +1,36 @@
+{
+  "id": "print-color-adjust",
+  "name": "print-color-adjust",
+  "description": "The print-color-adjust CSS property sets what, if anything, the \"user agent\" may do to optimize the appearance of the element on the output device. By default, the browser is allowed to make any adjustments to the element's appearance it determines to be necessary and prudent given the type and capabilities of the output device.",
+  "syntax": "economy | exact",
+  "initial": "economy",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-color-adjust/#propdef-print-color-adjust"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/print-color-adjust",
+  "support": {
+    "chrome": {
+      "added": "136",
+      "removed": null,
+      "prefixed": "17"
+    },
+    "firefox": {
+      "added": "97",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": "6"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

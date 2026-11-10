@@ -1,0 +1,36 @@
+{
+  "id": "hyphenate-character",
+  "name": "hyphenate-character",
+  "description": "The hyphenate-character CSS property sets the character (or string) used at the end of a line before a hyphenation break.",
+  "syntax": "auto | <string>",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#propdef-hyphenate-character"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hyphenate-character",
+  "support": {
+    "chrome": {
+      "added": "106",
+      "removed": null,
+      "prefixed": "6"
+    },
+    "firefox": {
+      "added": "98",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17",
+      "removed": null,
+      "prefixed": "5.1"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

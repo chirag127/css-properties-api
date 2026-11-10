@@ -1,0 +1,36 @@
+{
+  "id": "border-right-color",
+  "name": "border-right-color",
+  "description": "The border-right-color CSS property sets the color of an element's right border. It can also be set with the shorthand CSS properties \"border-color\" or \"border-right\".",
+  "syntax": "<color>",
+  "initial": "currentColor",
+  "inherited": "no",
+  "appliesTo": "all elements except ruby base containers and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#border-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-right-color",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

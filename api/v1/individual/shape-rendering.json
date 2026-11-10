@@ -1,0 +1,36 @@
+{
+  "id": "shape-rendering",
+  "name": "shape-rendering",
+  "description": "The shape-rendering CSS property provides hints to the renderer about what tradeoffs to make when rendering shapes like paths, circles, or rectangles. It only has an effect on the \"circle\", \"ellipse\", \"line\", \"path\", \"polygon\", \"polyline\", and \"rect\" elements. If explicitly declared, the value of the CSS property overrides the any values of the element's \"shape-rendering\" attribute.",
+  "syntax": "auto | optimizeSpeed | crispEdges | geometricPrecision",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "shapes",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#ShapeRendering"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/shape-rendering",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

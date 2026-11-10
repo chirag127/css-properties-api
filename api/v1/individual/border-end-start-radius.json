@@ -1,0 +1,36 @@
+{
+  "id": "border-end-start-radius",
+  "name": "border-end-start-radius",
+  "description": "The border-end-start-radius CSS property defines a logical border radius on an element, which maps to a physical border radius depending on the element's \"writing-mode\", \"direction\", and \"text-orientation\". This is useful when building styles to work regardless of the text orientation and writing mode.",
+  "syntax": "<border-radius>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements (but see prose)",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#border-radius-properties"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-end-start-radius",
+  "support": {
+    "chrome": {
+      "added": "89",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "66",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

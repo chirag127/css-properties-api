@@ -1,0 +1,37 @@
+{
+  "id": "writing-mode",
+  "name": "writing-mode",
+  "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, as well as the direction in which text flows.",
+  "syntax": "horizontal-tb | vertical-rl | vertical-lr | sideways-rl | sideways-lr",
+  "initial": "horizontal-tb",
+  "inherited": "yes",
+  "appliesTo": "All elements except table row groups, table column groups, table rows, table columns, ruby base containers, ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-writing-modes/#block-flow",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#WritingModeProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/writing-mode",
+  "support": {
+    "chrome": {
+      "added": "48",
+      "removed": null,
+      "prefixed": "8"
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": "5.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

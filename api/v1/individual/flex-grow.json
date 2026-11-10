@@ -1,0 +1,36 @@
+{
+  "id": "flex-grow",
+  "name": "flex-grow",
+  "description": "The flex-grow CSS property sets the flex grow factor, which specifies how much of the flex container's positive free space, if any, should be assigned to the flex item's main size.",
+  "syntax": "<number [0,∞]>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "flex items",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox/#flex-grow-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex-grow",
+  "support": {
+    "chrome": {
+      "added": "29",
+      "removed": null,
+      "prefixed": "22"
+    },
+    "firefox": {
+      "added": "20",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "font-synthesis-weight",
+  "name": "font-synthesis-weight",
+  "description": "The font-synthesis-weight CSS property lets you specify whether or not the browser may synthesize the bold typeface when it is missing in a font family.",
+  "syntax": "auto | none",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-synthesis-weight"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis-weight",
+  "support": {
+    "chrome": {
+      "added": "97",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "111",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

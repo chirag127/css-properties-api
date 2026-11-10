@@ -1,0 +1,36 @@
+{
+  "id": "column-count",
+  "name": "column-count",
+  "description": "The column-count CSS property breaks an element's content into the specified number of columns.",
+  "syntax": "auto | <integer [1,∞]>",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "block containers except table wrapper boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-multicol/#cc"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-count",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": "1.5"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

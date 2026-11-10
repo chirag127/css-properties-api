@@ -1,0 +1,36 @@
+{
+  "id": "anchor-name",
+  "name": "anchor-name",
+  "description": "The anchor-name CSS property enables defining an element as an anchor element by giving it one or more identifying anchor names. Each name can then be set as the value of a positioned element's \"position-anchor\" property to associate it with the anchor.",
+  "syntax": "none | <anchor-name>#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements that generate a principal box",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position-1/#name"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name",
+  "support": {
+    "chrome": {
+      "added": "125",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

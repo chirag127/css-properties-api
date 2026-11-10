@@ -1,0 +1,36 @@
+{
+  "id": "scroll-padding-inline",
+  "name": "scroll-padding-inline",
+  "description": "The scroll-padding-inline CSS shorthand property sets the scroll padding of an element in the inline dimension.",
+  "syntax": "[ auto | <length-percentage [0,∞]> ]{1,2}",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scroll-snap/#propdef-scroll-padding-inline"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-padding-inline",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "68",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

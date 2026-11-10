@@ -1,0 +1,36 @@
+{
+  "id": "scroll-marker-group",
+  "name": "scroll-marker-group",
+  "description": "The scroll-marker-group CSS property controls whether a \"scroll container\" element has a \"::scroll-marker-group\" pseudo-element generated. If present, the property also specifies whether the scroll marker group should be placed before or after the contents of the scroll group container in the default visual and tab order.",
+  "syntax": "none | [ [ before | after ] || [ links | tabs ] ]",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "scroll containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow-5/#scroll-marker-group-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-marker-group",
+  "support": {
+    "chrome": {
+      "added": "135",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

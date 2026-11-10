@@ -1,0 +1,36 @@
+{
+  "id": "font-variation-settings",
+  "name": "font-variation-settings",
+  "description": "The font-variation-settings CSS property provides low-level control over variable font characteristics by letting you specify the four letter axis names of the characteristics you want to vary along with their values.",
+  "syntax": "normal | [ <opentype-tag> <number> ]#",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-variation-settings-def"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variation-settings",
+  "support": {
+    "chrome": {
+      "added": "62",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "62",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "17",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

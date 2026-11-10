@@ -1,0 +1,36 @@
+{
+  "id": "font-language-override",
+  "name": "font-language-override",
+  "description": "The font-language-override CSS property controls the use of language-specific glyphs in a typeface.",
+  "syntax": "normal | <string>",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-language-override-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-language-override",
+  "support": {
+    "chrome": {
+      "added": "143",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "34",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

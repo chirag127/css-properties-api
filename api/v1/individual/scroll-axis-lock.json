@@ -1,0 +1,36 @@
+{
+  "id": "scroll-axis-lock",
+  "name": "scroll-axis-lock",
+  "description": null,
+  "syntax": "auto | none",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "scroll container elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-overflow-5/#scroll-axis-lock"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "153",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

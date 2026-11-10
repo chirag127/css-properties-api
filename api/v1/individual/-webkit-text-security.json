@@ -1,0 +1,34 @@
+{
+  "id": "-webkit-text-security",
+  "name": "-webkit-text-security",
+  "description": "-webkit-text-security is a non-standard CSS property that obfuscates characters in a \"form\" field (such as \"input\" or \"textarea\") by replacing them with a shape. It only affects fields that are not of type=password.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "nonstandard",
+  "specUrl": [],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-security",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "114",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "grid-template-areas",
+  "name": "grid-template-areas",
+  "description": "The grid-template-areas CSS property specifies named \"grid areas\", establishing the cells in the grid and assigning them names.",
+  "syntax": "none | <string>+",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "grid containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-grid/#grid-template-areas-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-template-areas",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

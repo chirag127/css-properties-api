@@ -1,0 +1,36 @@
+{
+  "id": "cx",
+  "name": "cx",
+  "description": "The cx CSS property defines the x-axis center point of an SVG \"circle\" or \"ellipse\" element. If present, it overrides the element's \"cx\" attribute.",
+  "syntax": "<length-percentage>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "‘circle’ and ‘ellipse’ elements",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/geometry.html#CX"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/cx",
+  "support": {
+    "chrome": {
+      "added": "43",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

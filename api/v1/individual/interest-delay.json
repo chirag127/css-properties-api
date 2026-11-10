@@ -1,0 +1,36 @@
+{
+  "id": "interest-delay",
+  "name": "interest-delay",
+  "description": "The interest-delay CSS property specifies the delay between the user showing interest in an interest invoker element and the \"HTMLElement.interestevent\", \"interest\" event firing, and the delay between the user losing interest and the \"HTMLElement.loseinterestevent\", \"loseinterest\" event firing.",
+  "syntax": "<'interest-delay-start'>{1,2}",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui-4/#propdef-interest-delay"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/interest-delay",
+  "support": {
+    "chrome": {
+      "added": "142",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

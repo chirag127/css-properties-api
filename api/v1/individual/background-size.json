@@ -1,0 +1,36 @@
+{
+  "id": "background-size",
+  "name": "background-size",
+  "description": "The background-size CSS property sets the size of the element's background image. The image can be left to its natural size, stretched, or constrained to fit the available space.",
+  "syntax": "<bg-size>#",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#background-size"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-size",
+  "support": {
+    "chrome": {
+      "added": "3",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "4",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "5",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

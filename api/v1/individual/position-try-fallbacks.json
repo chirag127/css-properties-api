@@ -1,0 +1,36 @@
+{
+  "id": "position-try-fallbacks",
+  "name": "position-try-fallbacks",
+  "description": "The position-try-fallbacks CSS property enables you to specify a list of one or more alternative position try fallback options for anchor-positioned elements to be placed relative to their associated anchor elements. When the element would otherwise overflow its inset-modified containing block, the browser will try placing the positioned element in these different fallback positions, in the order provided, until it finds a value that stops it from overflowing its container or the viewport.",
+  "syntax": "none | [ [<dashed-ident> || <try-tactic>] | <position-area> ]#",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "absolutely positioned boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position-1/#position-try-fallbacks"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-fallbacks",
+  "support": {
+    "chrome": {
+      "added": "128",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "147",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "word-break",
+  "name": "word-break",
+  "description": "The word-break CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box.",
+  "syntax": "normal | break-all | keep-all | manual | auto-phrase | break-word",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#word-break-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/word-break",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

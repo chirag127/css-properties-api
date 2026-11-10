@@ -1,0 +1,38 @@
+{
+  "id": "break-inside",
+  "name": "break-inside",
+  "description": "The break-inside CSS property sets how page, column, or region breaks should behave inside a generated box. If there is no generated box, the property is ignored.",
+  "syntax": "auto | avoid | avoid-page | avoid-column | avoid-region",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements except inline-level boxes, internal ruby boxes, table column boxes, table column group boxes, absolutely-positioned boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-break/#break-within",
+    "https://drafts.csswg.org/css-regions/#region-flow-break",
+    "https://drafts.csswg.org/css-multicol/#break-before-break-after-break-inside"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-inside",
+  "support": {
+    "chrome": {
+      "added": "50",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "65",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

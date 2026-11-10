@@ -1,0 +1,36 @@
+{
+  "id": "scrollbar-color",
+  "name": "scrollbar-color",
+  "description": "The scrollbar-color CSS property sets the color of the scrollbar track and thumb.",
+  "syntax": "auto | <color>{2}",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "scroll containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-scrollbars/#scrollbar-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-color",
+  "support": {
+    "chrome": {
+      "added": "121",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "64",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

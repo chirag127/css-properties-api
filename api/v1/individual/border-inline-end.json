@@ -1,0 +1,36 @@
+{
+  "id": "border-inline-end",
+  "name": "border-inline-end",
+  "description": "The border-inline-end CSS shorthand property sets the individual logical inline-end border property values in a single place in the style sheet.",
+  "syntax": "<line-width> || <line-style> || <color>",
+  "initial": "See individual properties",
+  "inherited": "no",
+  "appliesTo": "all elements except ruby base containers and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#border-shorthands"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-inline-end",
+  "support": {
+    "chrome": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

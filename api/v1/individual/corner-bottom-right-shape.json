@@ -1,0 +1,36 @@
+{
+  "id": "corner-bottom-right-shape",
+  "name": "corner-bottom-right-shape",
+  "description": "The corner-bottom-right-shape CSS property specifies the shape of a box's bottom-right corner, within its \"border-radius\" area.",
+  "syntax": "<corner-shape-value>",
+  "initial": "round",
+  "inherited": "no",
+  "appliesTo": "all elements where border-radius can apply",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-borders/#propdef-corner-bottom-right-shape"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/corner-bottom-right-shape",
+  "support": {
+    "chrome": {
+      "added": "139",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

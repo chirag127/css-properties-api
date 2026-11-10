@@ -1,0 +1,36 @@
+{
+  "id": "shape-outside",
+  "name": "shape-outside",
+  "description": "The shape-outside CSS property defines a shape—which may be non-rectangular—around which adjacent inline content should wrap. By default, inline content wraps around its margin box; shape-outside provides a way to customize this wrapping, making it possible to wrap text around complex objects rather than rectangular boxes.",
+  "syntax": "none | [ <basic-shape> || <shape-box> ] | <image>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "floats and initial letter boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-shapes/#shape-outside-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/shape-outside",
+  "support": {
+    "chrome": {
+      "added": "37",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "62",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "view-transition-group",
+  "name": "view-transition-group",
+  "description": null,
+  "syntax": "normal | contain | nearest | <custom-ident>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-view-transitions-2/#view-transition-group-prop"
+  ],
+  "mdnUrl": null,
+  "support": {
+    "chrome": {
+      "added": "140",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

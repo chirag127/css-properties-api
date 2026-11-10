@@ -1,0 +1,36 @@
+{
+  "id": "border-image-repeat",
+  "name": "border-image-repeat",
+  "description": "The border-image-repeat CSS property defines how the images for the sides and the middle part of the border image are scaled and tiled. The middle region can be displayed by using the keyword \"fill\" in the \"border-image-slice\" property.",
+  "syntax": "[ stretch | repeat | round | space ]{1,2}",
+  "initial": "stretch",
+  "inherited": "no",
+  "appliesTo": "All elements, except internal table elements when border-collapse is collapse",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#border-image-repeat"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-image-repeat",
+  "support": {
+    "chrome": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "text-orientation",
+  "name": "text-orientation",
+  "description": "The text-orientation CSS property sets the orientation of the text characters in a line. It only affects text in vertical mode (when \"writing-mode\" is not horizontal-tb). It is useful for controlling the display of languages that use vertical script, and also for making vertical table headers.",
+  "syntax": "mixed | upright | sideways",
+  "initial": "mixed",
+  "inherited": "yes",
+  "appliesTo": "all elements except table row groups, rows, column groups, and columns; and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-writing-modes/#text-orientation"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-orientation",
+  "support": {
+    "chrome": {
+      "added": "48",
+      "removed": null,
+      "prefixed": "12"
+    },
+    "firefox": {
+      "added": "41",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14",
+      "removed": null,
+      "prefixed": "5.1"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

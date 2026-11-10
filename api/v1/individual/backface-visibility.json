@@ -1,0 +1,36 @@
+{
+  "id": "backface-visibility",
+  "name": "backface-visibility",
+  "description": "The backface-visibility CSS property sets whether the back face of an element is visible when turned towards the user.",
+  "syntax": "visible | hidden",
+  "initial": "visible",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transforms-2/#backface-visibility-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/backface-visibility",
+  "support": {
+    "chrome": {
+      "added": "36",
+      "removed": null,
+      "prefixed": "12"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": "5.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

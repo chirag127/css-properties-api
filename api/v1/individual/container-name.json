@@ -1,0 +1,36 @@
+{
+  "id": "container-name",
+  "name": "container-name",
+  "description": "The container-name CSS property specifies a list of query container names used by the @container at-rule in a container query.",
+  "syntax": "none | <custom-ident>+",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-conditional-5/#container-name"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/container-name",
+  "support": {
+    "chrome": {
+      "added": "105",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "110",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

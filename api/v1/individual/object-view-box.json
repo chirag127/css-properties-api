@@ -1,0 +1,36 @@
+{
+  "id": "object-view-box",
+  "name": "object-view-box",
+  "description": "The object-view-box CSS property defines a rectangle as a viewable area (viewbox) within a \"replaced elements\", \"replaced element\", enabling the content of the replaced element to be zoomed or panned. It works similarly to the SVG \"viewBox\" attribute.",
+  "syntax": "none | <basic-shape-rect>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "replaced elements",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-images-5/#propdef-object-view-box"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/object-view-box",
+  "support": {
+    "chrome": {
+      "added": "104",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

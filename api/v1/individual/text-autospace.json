@@ -1,0 +1,36 @@
+{
+  "id": "text-autospace",
+  "name": "text-autospace",
+  "description": "The text-autospace CSS property allows you to specify the space applied between Chinese/Japanese/Korean (CJK) and non-CJK characters.",
+  "syntax": "normal | <autospace> | auto",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-4/#propdef-text-autospace"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-autospace",
+  "support": {
+    "chrome": {
+      "added": "140",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "145",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

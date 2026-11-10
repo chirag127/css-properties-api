@@ -1,0 +1,36 @@
+{
+  "id": "-webkit-text-stroke",
+  "name": "-webkit-text-stroke",
+  "description": "The -webkit-text-stroke CSS shorthand property specifies the width and color of strokes for text characters.",
+  "syntax": "<line-width> || <color>",
+  "initial": "See individual properties",
+  "inherited": "yes",
+  "appliesTo": "See individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://compat.spec.whatwg.org/#the-webkit-text-stroke"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-stroke",
+  "support": {
+    "chrome": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

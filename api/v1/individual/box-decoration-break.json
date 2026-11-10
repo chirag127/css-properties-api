@@ -1,0 +1,36 @@
+{
+  "id": "box-decoration-break",
+  "name": "box-decoration-break",
+  "description": "The box-decoration-break CSS property specifies how an element's fragments should be rendered when broken across multiple lines, columns, or pages.",
+  "syntax": "slice | clone",
+  "initial": "slice",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-break/#break-decoration"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-decoration-break",
+  "support": {
+    "chrome": {
+      "added": "130",
+      "removed": null,
+      "prefixed": "22"
+    },
+    "firefox": {
+      "added": "32",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": null,
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

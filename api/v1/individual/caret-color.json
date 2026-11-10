@@ -1,0 +1,36 @@
+{
+  "id": "caret-color",
+  "name": "caret-color",
+  "description": "The caret-color CSS property sets the color of the insertion caret, sometimes referred to as the text input cursor. This is the visible marker appearing at the insertion point where the next character typed will be added or where the next character deleted will be removed.",
+  "syntax": "auto | <color> [auto | <color>]?",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "text or elements that accept text input",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#caret-color"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/caret-color",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "53",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

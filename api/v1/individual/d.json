@@ -1,0 +1,36 @@
+{
+  "id": "d",
+  "name": "d",
+  "description": "The d CSS property defines a path to be drawn by the SVG \"path\" element. If present, it overrides the element's \"d\" attribute.",
+  "syntax": "none | <string>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "‘path’",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/paths.html#TheDProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/d",
+  "support": {
+    "chrome": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "97",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

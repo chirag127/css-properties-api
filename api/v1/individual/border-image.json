@@ -1,0 +1,36 @@
+{
+  "id": "border-image",
+  "name": "border-image",
+  "description": "The border-image CSS shorthand property draws an image around a given element. It replaces the element's regular border.",
+  "syntax": "<'border-image-source'> || <'border-image-slice'> [ / <'border-image-width'> | / <'border-image-width'>? / <'border-image-outset'> ]? || <'border-image-repeat'>",
+  "initial": "See individual properties",
+  "inherited": "no",
+  "appliesTo": "See individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-backgrounds/#border-image"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-image",
+  "support": {
+    "chrome": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "firefox": {
+      "added": "15",
+      "removed": null,
+      "prefixed": "3.5"
+    },
+    "safari": {
+      "added": "6",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

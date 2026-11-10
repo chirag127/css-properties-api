@@ -1,0 +1,36 @@
+{
+  "id": "grid-auto-flow",
+  "name": "grid-auto-flow",
+  "description": "The grid-auto-flow CSS property controls how the auto-placement algorithm works, specifying exactly how auto-placed items get flowed into the grid.",
+  "syntax": "[ row | column ] || dense",
+  "initial": "row",
+  "inherited": "no",
+  "appliesTo": "grid containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-grid/#grid-auto-flow-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-auto-flow",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "10.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

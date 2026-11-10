@@ -1,0 +1,36 @@
+{
+  "id": "will-change",
+  "name": "will-change",
+  "description": "The will-change CSS property enables optimizing animations by providing a rendering hint to a browser about how an element is expected to change.",
+  "syntax": "auto | <animateable-feature>#",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-will-change/#will-change"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/will-change",
+  "support": {
+    "chrome": {
+      "added": "36",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "36",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

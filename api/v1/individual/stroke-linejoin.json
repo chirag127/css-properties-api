@@ -1,0 +1,36 @@
+{
+  "id": "stroke-linejoin",
+  "name": "stroke-linejoin",
+  "description": "The stroke-linejoin CSS property defines the shape to be used at the corners of an SVG element's stroked paths. If present, it overrides the element's \"stroke-linejoin\" attribute.",
+  "syntax": "miter | round | bevel",
+  "initial": "miter",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/fill-stroke-3/#stroke-linejoin"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/stroke-linejoin",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "line-break",
+  "name": "line-break",
+  "description": "The line-break CSS property sets how to break lines of Chinese, Japanese, or Korean (CJK) text when working with punctuation and symbols.",
+  "syntax": "auto | loose | normal | strict | anywhere",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#line-break-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-break",
+  "support": {
+    "chrome": {
+      "added": "58",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "14",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

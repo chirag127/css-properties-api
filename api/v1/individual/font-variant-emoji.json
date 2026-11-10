@@ -1,0 +1,36 @@
+{
+  "id": "font-variant-emoji",
+  "name": "font-variant-emoji",
+  "description": "The font-variant-emoji CSS property specifies the default presentation style for displaying emojis.",
+  "syntax": "normal | text | emoji | unicode",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-variant-emoji-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-emoji",
+  "support": {
+    "chrome": {
+      "added": "131",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "141",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "preview",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

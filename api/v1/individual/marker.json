@@ -1,0 +1,36 @@
+{
+  "id": "marker",
+  "name": "marker",
+  "description": "The marker CSS property points to a marker that will be drawn on the first, middle, and last vertices of the element's path; that is, at all of its vertices. The marker must have been defined using an SVG 'marker' element, and can only be referenced with a \"urlvalue\", \"&lt;url&gt;\" value. The value of the CSS property overrides any values of the marker-start, marker, and marker-end attributes in the SVG.",
+  "syntax": "none | <marker-ref>",
+  "initial": "not defined for shorthand properties",
+  "inherited": "yes",
+  "appliesTo": "shapes",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#MarkerShorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/marker",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "≤15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

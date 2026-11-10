@@ -1,0 +1,36 @@
+{
+  "id": "frame-sizing",
+  "name": "frame-sizing",
+  "description": "The frame-sizing CSS property can be used to set an \"iframe\" element's horizontal or vertical size to equal the layout size of its embedded document in the same dimension, but only if the embedded document has opted in to sharing its size information.",
+  "syntax": "auto | content-width | content-height | content-block-size | content-inline-size",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "replaced elements (but see below for details)",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing-4/#responsive-iframes"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/frame-sizing",
+  "support": {
+    "chrome": {
+      "added": "154",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

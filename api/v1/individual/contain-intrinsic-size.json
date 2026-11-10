@@ -1,0 +1,36 @@
+{
+  "id": "contain-intrinsic-size",
+  "name": "contain-intrinsic-size",
+  "description": "The contain-intrinsic-size CSS shorthand property sets the size of an element that a browser will use for layout when the element is subject to size containment.",
+  "syntax": "[ auto? [ none | <length [0,∞]> ] ]{1,2}",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-sizing-4/#propdef-contain-intrinsic-size"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain-intrinsic-size",
+  "support": {
+    "chrome": {
+      "added": "83",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "107",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

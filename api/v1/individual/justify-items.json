@@ -1,0 +1,36 @@
+{
+  "id": "justify-items",
+  "name": "justify-items",
+  "description": "The CSS justify-items property defines the default \"justify-self\" for all items of the box, giving them all a default way of justifying each box along the appropriate axis.",
+  "syntax": "normal | stretch | <baseline-position> | <overflow-position>? [ <self-position> | left | right ] | legacy | legacy && [ left | right | center ]",
+  "initial": "legacy",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-align/#justify-items-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/justify-items",
+  "support": {
+    "chrome": {
+      "added": "52",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "20",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

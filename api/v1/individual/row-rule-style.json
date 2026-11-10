@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-style",
+  "name": "row-rule-style",
+  "description": "The row-rule-style CSS property defines the line style of the lines drawn between rows in multi-row grid, flex, and multi-col layouts.",
+  "syntax": "<line-style-list> | <auto-line-style-list>",
+  "initial": "none",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-style"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-rule-style",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

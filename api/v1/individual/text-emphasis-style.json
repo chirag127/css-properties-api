@@ -1,0 +1,36 @@
+{
+  "id": "text-emphasis-style",
+  "name": "text-emphasis-style",
+  "description": "The text-emphasis-style CSS property sets the appearance of emphasis marks. It can also be set, and reset, using the \"text-emphasis\" shorthand.",
+  "syntax": "none | [ [ filled | open ] || [ dot | circle | double-circle | triangle | sesame ] ] | <string>",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor/#text-emphasis-style-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-emphasis-style",
+  "support": {
+    "chrome": {
+      "added": "99",
+      "removed": null,
+      "prefixed": "25"
+    },
+    "firefox": {
+      "added": "46",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "7",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

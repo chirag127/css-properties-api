@@ -1,0 +1,36 @@
+{
+  "id": "flex-line-count",
+  "name": "flex-line-count",
+  "description": "The flex-line-count CSS property sets the minimum number of flex lines that flex items will be balanced over in cases where a flex container's \"flex-wrap\" or \"flex-flow\" property includes the balance keyword.",
+  "syntax": "<integer [1,∞]>",
+  "initial": "1",
+  "inherited": "no",
+  "appliesTo": "multi-line flex containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-flexbox-2/#flex-line-count-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/flex-line-count",
+  "support": {
+    "chrome": {
+      "added": "150",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

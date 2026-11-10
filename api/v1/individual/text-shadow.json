@@ -1,0 +1,36 @@
+{
+  "id": "text-shadow",
+  "name": "text-shadow",
+  "description": "The text-shadow CSS property adds shadows to text. It accepts a comma-separated list of shadows to be applied to the text and any of its \"text-decoration\". Each shadow is described by some combination of X and Y offsets from the element, blur radius, and color.",
+  "syntax": "none | <shadow>#",
+  "initial": "none",
+  "inherited": "yes",
+  "appliesTo": "text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor/#text-shadow-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-shadow",
+  "support": {
+    "chrome": {
+      "added": "2",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

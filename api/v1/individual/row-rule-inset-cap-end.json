@@ -1,0 +1,36 @@
+{
+  "id": "row-rule-inset-cap-end",
+  "name": "row-rule-inset-cap-end",
+  "description": "The row-rule-inset-cap-end CSS property can be used to offset the end of row rule segment cap endpoints.",
+  "syntax": "<inset-value>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "grid containers, flex containers, multicol containers, and grid lanes containers",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-row-rule-inset-cap-end"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/row-rule-inset-cap-end",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

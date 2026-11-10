@@ -1,0 +1,36 @@
+{
+  "id": "border-inline",
+  "name": "border-inline",
+  "description": "The border-inline CSS shorthand property sets the individual logical inline border property values in a single place in the style sheet.",
+  "syntax": "<'border-block-start'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "see individual properties",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-logical/#propdef-border-inline"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-inline",
+  "support": {
+    "chrome": {
+      "added": "87",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "66",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "14.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "color-interpolation-filters",
+  "name": "color-interpolation-filters",
+  "description": "The color-interpolation-filters CSS property specifies the color space for imaging operations performed via SVG filter effects. If explicitly declared, the value of the CSS property overrides any value given in the element's \"color-interpolation-filters\" attribute.",
+  "syntax": "auto | sRGB | linearRGB",
+  "initial": "linearRGB",
+  "inherited": "yes",
+  "appliesTo": "All filter primitives",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/filter-effects/#ColorInterpolationFiltersProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color-interpolation-filters",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "3",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

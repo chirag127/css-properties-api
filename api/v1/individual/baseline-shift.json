@@ -1,0 +1,37 @@
+{
+  "id": "baseline-shift",
+  "name": "baseline-shift",
+  "description": "The baseline-shift CSS property repositions the dominant-baseline of a text element relative to the dominant-baseline of its parent text content element. The shifted element might be a sub- or superscript. If the property is present, the value overrides the element's \"baseline-shift\" attribute.",
+  "syntax": "<length-percentage> | sub | super | top | center | bottom",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "inline-level boxes and SVG text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-inline/#baseline-shift-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#BaselineShiftProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

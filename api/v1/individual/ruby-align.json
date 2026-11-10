@@ -1,0 +1,36 @@
+{
+  "id": "ruby-align",
+  "name": "ruby-align",
+  "description": "The ruby-align CSS property defines the distribution of the different ruby elements over the base.",
+  "syntax": "start | center | space-between | space-around",
+  "initial": "space-around",
+  "inherited": "yes",
+  "appliesTo": "ruby bases, ruby annotations, ruby base containers, ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ruby/#ruby-align-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-align",
+  "support": {
+    "chrome": {
+      "added": "128",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "38",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "18.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

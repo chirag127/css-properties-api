@@ -1,0 +1,36 @@
+{
+  "id": "text-decoration-skip",
+  "name": "text-decoration-skip",
+  "description": "The text-decoration-skip CSS property sets what parts of an element's content any text decoration affecting the element must skip over. It controls all text decoration lines drawn by the element and also any text decoration lines drawn by its ancestors.",
+  "syntax": "none | auto",
+  "initial": "See individual properties",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "deprecated",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text-decor-4/#text-decoration-skipping"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration-skip",
+  "support": {
+    "chrome": {
+      "added": "57",
+      "removed": "64",
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "12.1",
+      "removed": null,
+      "prefixed": "7"
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "outline-offset",
+  "name": "outline-offset",
+  "description": "The outline-offset CSS property sets the amount of space between an outline and the edge or border of an element.",
+  "syntax": "<length>",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#outline-offset"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-offset",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1.5",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1.2",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "15",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

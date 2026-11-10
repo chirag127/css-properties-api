@@ -1,0 +1,36 @@
+{
+  "id": "perspective-origin",
+  "name": "perspective-origin",
+  "description": "The perspective-origin CSS property determines the position at which the viewer is looking. It is used as the vanishing point by the \"perspective\" property.",
+  "syntax": "<position>",
+  "initial": "50% 50%",
+  "inherited": "no",
+  "appliesTo": "transformable elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transforms-2/#perspective-origin-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/perspective-origin",
+  "support": {
+    "chrome": {
+      "added": "36",
+      "removed": null,
+      "prefixed": "12"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "4"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

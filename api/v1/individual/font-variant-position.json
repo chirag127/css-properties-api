@@ -1,0 +1,36 @@
+{
+  "id": "font-variant-position",
+  "name": "font-variant-position",
+  "description": "The font-variant-position CSS property controls the use of alternate, smaller glyphs that are positioned as superscript or subscript.",
+  "syntax": "normal | sub | super",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "all elements and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-fonts/#font-variant-position-prop"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-position",
+  "support": {
+    "chrome": {
+      "added": "117",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "34",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "9.1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

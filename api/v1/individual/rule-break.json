@@ -1,0 +1,36 @@
+{
+  "id": "rule-break",
+  "name": "rule-break",
+  "description": "The rule-break CSS shorthand property sets the behavior for breaking column and row rules into segments where rows and column gaps intersect, setting \"column-rule-break\" and \"row-rule-break\" to the same value.",
+  "syntax": "<'column-rule-break'>",
+  "initial": "see individual properties",
+  "inherited": "see individual properties",
+  "appliesTo": "Same as column-rule-break and row-rule-break",
+  "status": "experimental",
+  "specUrl": [
+    "https://drafts.csswg.org/css-gaps-1/#propdef-rule-break"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rule-break",
+  "support": {
+    "chrome": {
+      "added": "149",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

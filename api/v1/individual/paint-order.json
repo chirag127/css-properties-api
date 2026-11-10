@@ -1,0 +1,36 @@
+{
+  "id": "paint-order",
+  "name": "paint-order",
+  "description": "The paint-order CSS property lets you control the order in which the fill and stroke (and painting markers) of text content and shapes are drawn.",
+  "syntax": "normal | [ fill || stroke || markers ]",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "shapes and text content elements",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/painting.html#PaintOrderProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/paint-order",
+  "support": {
+    "chrome": {
+      "added": "123",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "60",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "11",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

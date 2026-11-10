@@ -1,0 +1,37 @@
+{
+  "id": "letter-spacing",
+  "name": "letter-spacing",
+  "description": "The letter-spacing CSS property sets the spacing between text characters. This value is added to the natural spacing between characters while rendering the text. Positive values of letter-spacing spread characters further apart, while negative values of letter-spacing bring characters closer together.",
+  "syntax": "normal | <length-percentage>",
+  "initial": "normal",
+  "inherited": "yes",
+  "appliesTo": "inline boxes and text",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#letter-spacing-property",
+    "https://w3c.github.io/svgwg/svg2-draft/text.html#LetterSpacingProperty"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/letter-spacing",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

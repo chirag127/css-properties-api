@@ -1,0 +1,36 @@
+{
+  "id": "position-try-order",
+  "name": "position-try-order",
+  "description": "The position-try-order CSS property allows you to prioritize the \"position-try-fallbacks\" option applied to an anchor-positioned element when it first renders, based on which option creates the most space around the element in the given direction.",
+  "syntax": "normal | <try-size>",
+  "initial": "normal",
+  "inherited": "no",
+  "appliesTo": "absolutely positioned boxes",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-anchor-position-1/#position-try-order-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order",
+  "support": {
+    "chrome": {
+      "added": "125",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "148",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

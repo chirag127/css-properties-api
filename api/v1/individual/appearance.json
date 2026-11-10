@@ -1,0 +1,36 @@
+{
+  "id": "appearance",
+  "name": "appearance",
+  "description": "The appearance CSS property specifies the rendered appearance of replaced UI widget elements such as form controls. Most commonly, such elements are given native, platform-specific styling based on the operating system's theme, or a primitive appearance with styles that can be overridden using CSS.",
+  "syntax": null,
+  "initial": null,
+  "inherited": null,
+  "appliesTo": null,
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-ui/#appearance-switching"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/appearance",
+  "support": {
+    "chrome": {
+      "added": "84",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "80",
+      "removed": null,
+      "prefixed": "64"
+    },
+    "safari": {
+      "added": "15.4",
+      "removed": null,
+      "prefixed": "3"
+    },
+    "edge": {
+      "added": "84",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

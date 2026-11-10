@@ -1,0 +1,36 @@
+{
+  "id": "rx",
+  "name": "rx",
+  "description": "The rx CSS property defines the x-axis, or horizontal, radius of an SVG \"ellipse\" and the horizontal curve of the corners of an SVG \"rect\" rectangle. If present, it overrides the shape's \"rx\" attribute.",
+  "syntax": "<length-percentage> | auto",
+  "initial": "auto",
+  "inherited": "no",
+  "appliesTo": "‘ellipse’, ‘rect’ elements",
+  "status": "standard",
+  "specUrl": [
+    "https://w3c.github.io/svgwg/svg2-draft/geometry.html#RX"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rx",
+  "support": {
+    "chrome": {
+      "added": "43",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "69",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "17.4",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

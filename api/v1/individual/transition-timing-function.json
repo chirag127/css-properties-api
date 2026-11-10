@@ -1,0 +1,36 @@
+{
+  "id": "transition-timing-function",
+  "name": "transition-timing-function",
+  "description": "The transition-timing-function CSS property sets how intermediate values are calculated for CSS properties being affected by a transition effect.",
+  "syntax": "<easing-function>#",
+  "initial": "ease",
+  "inherited": "no",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-transitions/#transition-timing-function-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition-timing-function",
+  "support": {
+    "chrome": {
+      "added": "26",
+      "removed": null,
+      "prefixed": "1"
+    },
+    "firefox": {
+      "added": "16",
+      "removed": null,
+      "prefixed": "49"
+    },
+    "safari": {
+      "added": "9",
+      "removed": null,
+      "prefixed": "3.1"
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": "12"
+    }
+  }
+}

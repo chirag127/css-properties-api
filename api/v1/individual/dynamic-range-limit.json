@@ -1,0 +1,36 @@
+{
+  "id": "dynamic-range-limit",
+  "name": "dynamic-range-limit",
+  "description": "The dynamic-range-limit CSS property specifies the maximum luminance allowed for High Dynamic Range (HDR) content.",
+  "syntax": "standard | no-limit | constrained | <dynamic-range-limit-mix()>",
+  "initial": "no-limit",
+  "inherited": "yes",
+  "appliesTo": "all elements",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-color-hdr/#the-dynamic-range-limit-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/dynamic-range-limit",
+  "support": {
+    "chrome": {
+      "added": "136",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": false,
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "26",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": null,
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

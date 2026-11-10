@@ -1,0 +1,36 @@
+{
+  "id": "text-align-last",
+  "name": "text-align-last",
+  "description": "The text-align-last CSS property sets how the last line of a block or a line, right before a forced line break, is aligned.",
+  "syntax": "auto | start | end | left | right | center | justify | match-parent",
+  "initial": "auto",
+  "inherited": "yes",
+  "appliesTo": "block containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-text/#text-align-last-property"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-align-last",
+  "support": {
+    "chrome": {
+      "added": "47",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "49",
+      "removed": null,
+      "prefixed": "12"
+    },
+    "safari": {
+      "added": "16",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}

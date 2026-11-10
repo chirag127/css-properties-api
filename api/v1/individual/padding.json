@@ -1,0 +1,36 @@
+{
+  "id": "padding",
+  "name": "padding",
+  "description": "The padding CSS shorthand property sets the padding area on all four sides of an element at once.",
+  "syntax": "<'padding-top'>{1,4}",
+  "initial": "0",
+  "inherited": "no",
+  "appliesTo": "all elements except: internal table elements other than table cells, ruby base containers, and ruby annotation containers",
+  "status": "standard",
+  "specUrl": [
+    "https://drafts.csswg.org/css-box/#padding-shorthand"
+  ],
+  "mdnUrl": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding",
+  "support": {
+    "chrome": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "firefox": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "safari": {
+      "added": "1",
+      "removed": null,
+      "prefixed": null
+    },
+    "edge": {
+      "added": "12",
+      "removed": null,
+      "prefixed": null
+    }
+  }
+}
